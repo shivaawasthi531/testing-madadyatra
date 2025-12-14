@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
-apt-get update
-apt-get install -y g++
-g++ backend/cpp/bus.cpp -o backend/cpp/bus_engine
-g++ backend/cpp/metro.cpp -o backend/cpp/metro_engine
-chmod +x backend/cpp/bus_engine backend/cpp/metro_engine
+set -e
+
+echo "Building C++ files..."
+
+cd backend/cpp
+
+g++ -std=c++17 main.cpp -o bus_engine
+g++ -std=c++17 metro_engine.cpp -o metro_engine
+
+chmod +x bus_engine metro_engine
+
+echo "Build complete"
