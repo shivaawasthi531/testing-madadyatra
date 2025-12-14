@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Madad Yatra — Premium UI</title>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="" crossorigin="anonymous"/>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- NAV -->
+  <header class="nav">
+    <div class="brand">
+      <div class="logo-glow">
+        <i class="fa-solid fa-bus"></i>
+      </div>
+      <div class="brand-text">
+        <div class="title">MADAD YATRA</div>
+        <div class="tagline">Apki Yatra, Humara Saath</div>
+        <div class="subtitle">Your travel , Our help</div>
+      </div>
+    </div>
+
+    <div class="nav-actions" id="navActions">
+      <button class="btn ghost" id="loginBtn" onclick="openLogin()"><i class="fa-solid fa-right-to-bracket"></i> Login</button>
+      <button class="btn primary" id="signupBtn" onclick="openSignup()"><i class="fa-solid fa-user-plus"></i> Sign Up</button>
+    </div>
+  </header>
+
+  <!-- HERO / SEARCH -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="search-card glass">
+        <div class="search-title">
+          <h1>Find the best route</h1>
+          <p class="muted">Enter start & destination </p>
+        </div>
+
+        <div class="search-fields">
+          <div class="field">
+            <i class="fa-solid fa-location-dot icon"></i>
+            <input id="start" placeholder="Start location (e.g. Najafgarh)" />
+          </div>
+
+          <div class="field">
+            <i class="fa-solid fa-map-pin icon"></i>
+            <input id="end" placeholder="Destination (e.g. Huda City Centre)" />
+          </div>
+
+          <div class="controls">
+            <button class="btn accent" id="searchBtn" onclick="searchAll()">
+              <i class="fa-solid fa-magnifying-glass"></i> Search
+            </button>
+            <div class="small-actions">
+              <button class="chip" title="Swap" onclick="swapPlaces()"><i class="fa-solid fa-arrow-right-arrow-left"></i></button>
+              <button class="chip" title="Clear" onclick="clearFields()"><i class="fa-solid fa-trash-can"></i></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="note glass-note">
+          <i class="fa-solid fa-info-circle"></i> Shows - (DTC, Metro, Traffic, Alternatives, ETA)
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- RESULT GRID -->
+  <main class="results-wrap">
+    <section id="resultsGrid" class="results-grid">
+      <!-- Card placeholders — DO NOT populate route data here; replace with backend injection -->
+      <article class="card" id="card-bus">
+        <div class="card-head"><i class="fa-solid fa-bus"></i><h3>DTC BUS</h3></div>
+        <div class="card-body" id="busBody">
+          <!-- PLACEHOLDER: backend will insert bus list / stands / times here -->
+          <div class="placeholder">Awaiting backend data...</div>
+        </div>
+      </article>
+
+      <article class="card" id="card-metro">
+        <div class="card-head"><i class="fa-solid fa-train"></i><h3>METRO</h3></div>
+        <div class="card-body" id="metroBody">
+          <!-- PLACEHOLDER -->
+          <div class="placeholder">Awaiting backend data...</div>
+        </div>
+      </article>
+
+      <article class="card" id="card-traffic">
+        <div class="card-head"><i class="fa-solid fa-traffic-light"></i><h3>TRAFFIC</h3></div>
+        <div class="card-body" id="trafficBody">
+          <!-- PLACEHOLDER -->
+          <div class="placeholder">Awaiting backend data...</div>
+        </div>
+      </article>
+
+      <!-- Additional summary cards -->
+      <article class="card wide" id="card-alt">
+        <div class="card-head"><i class="fa-solid fa-list-ul"></i><h3>ALTERNATIVE ROUTES</h3></div>
+        <div class="card-body" id="altBody"><div class="placeholder">Awaiting backend data...</div></div>
+      </article>
+
+      <article class="card wide" id="card-eta">
+        <div class="card-head"><i class="fa-solid fa-stopwatch"></i><h3>ETA & FARE SUMMARY</h3></div>
+        <div class="card-body" id="etaBody"><div class="placeholder">Awaiting backend data...</div></div>
+      </article>
+    </section>
+  </main>
+
+  <!-- LOGIN MODAL -->
+  <div class="modal" id="modalLogin" aria-hidden="true">
+    <div class="modal-panel glass-strong animate-up" role="dialog" aria-modal="true">
+      <button class="modal-close" onclick="closeLogin()"><i class="fa-solid fa-xmark"></i></button>
+      <div class="modal-left">
+        <div class="auth-illustration">
+          <i class="fa-solid fa-right-to-bracket"></i>
+        </div>
+        <h2>Welcome back</h2>
+        <p class="muted">Login to access saved routes & preferences</p>
+      </div>
+
+      <div class="modal-right">
+        <label class="label">Email</label>
+        <input id="loginEmail" type="email" placeholder="you@domain.com" />
+        <label class="label">Password</label>
+        <input id="loginPass" type="password" placeholder="••••••••" />
+
+        <div class="modal-actions">
+          <button class="btn ghost" onclick="closeLogin()">Cancel</button>
+          <button class="btn primary" onclick="loginUser()"><i class="fa-solid fa-right-to-bracket"></i> Login</button>
+        </div>
+
+        <div class="small muted">Don't have an account? <a href="#" onclick="closeLogin(); openSignup(); return false;">Sign up</a></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SIGNUP MODAL -->
+  <div class="modal" id="modalSignup" aria-hidden="true">
+    <div class="modal-panel glass-strong animate-up" role="dialog" aria-modal="true">
+      <button class="modal-close" onclick="closeSignup()"><i class="fa-solid fa-xmark"></i></button>
+
+      <div class="modal-left">
+        <div class="auth-illustration">
+          <i class="fa-solid fa-user-plus"></i>
+        </div>
+        <h2>Create account</h2>
+        <p class="muted">Signup quickly to save routes & preferences</p>
+      </div>
+
+      <div class="modal-right">
+        <label class="label">Full name</label>
+        <input id="signName" type="text" placeholder="Your name" />
+        <label class="label">Email</label>
+        <input id="signEmail" type="email" placeholder="you@domain.com" />
+        <label class="label">Password</label>
+        <input id="signPass" type="password" placeholder="Choose a secure password" />
+
+        <div class="modal-actions">
+          <button class="btn ghost" onclick="closeSignup()">Cancel</button>
+          <button class="btn primary" onclick="signupUser()"><i class="fa-solid fa-user-plus"></i> Sign Up</button>
+        </div>
+
+        <div class="small muted">Already have an account? <a href="#" onclick="closeSignup(); openLogin(); return false;">Login</a></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

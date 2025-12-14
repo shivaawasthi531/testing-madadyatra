@@ -1,0 +1,228 @@
+
+line_code,station_order,station_name,is_interchange
+RL,1,Rithala,0
+RL,2,Rohini West,0
+RL,3,Rohini East,0
+RL,4,Pitampura,0
+RL,5,Kohat Enclave,0
+RL,6,Netaji Subhash Place,1
+RL,7,Keshav Puram,0
+RL,8,Kanhaiya Nagar,0
+RL,9,Inderlok,1
+RL,10,Shastri Nagar,0
+RL,11,Pratap Nagar,0
+RL,12,Pul Bangash,0
+RL,13,Tis Hazari,0
+RL,14,Kashmere Gate,1
+RL,15,Shastri Park,0
+RL,16,Seelampur,0
+RL,17,Welcome,1
+RL,18,Shahdara,0
+RL,19,Mansarovar Park,0
+RL,20,Jhilmil,0
+RL,21,Dilshad Garden,0
+RL,22,Shaheed Sthal,0
+
+YL,1,Samaypur Badli,0
+YL,2,Rohini Sector 18,19,20,0
+YL,3,Haiderpur Badli Mor,0
+YL,4,Jahangirpuri,0
+YL,5,Adarsh Nagar,0
+YL,6,Azadpur,1
+YL,7,Model Town,0
+YL,8,Guru Tegh Bahadur Nagar,0
+YL,9,Vishwa Vidyalaya,0
+YL,10,Vidhan Sabha,0
+YL,11,Civil Lines,0
+YL,12,Kashmere Gate,1
+YL,13,Chandni Chowk,0
+YL,14,Chawri Bazar,0
+YL,15,New Delhi,1
+YL,16,Rajiv Chowk,1
+YL,17,Patel Chowk,0
+YL,18,Central Secretariat,1
+YL,19,Udyog Bhawan,0
+YL,20,Lok Kalyan Marg,0
+YL,21,Jor Bagh,0
+YL,22,INA,1
+YL,23,AIIMS,0
+YL,24,Green Park,0
+YL,25,Hauz Khas,1
+YL,26,Malviya Nagar,0
+YL,27,Saket,0
+YL,28,Qutab Minar,0
+YL,29,Chhatarpur,0
+YL,30,Sultanpur,0
+YL,31,Ghitorni,0
+YL,32,Arjan Garh,0
+YL,33,Guru Dronacharya,0
+YL,34,Sikandarpur,1
+YL,35,MG Road,0
+YL,36,IFFCO Chowk,0
+YL,37,HUDA City Centre,0
+
+BL,1,Dwarka Sec - 21,1
+BL,2,Dwarka Sector 8,0
+BL,3,Dwarka Sector 9,0
+BL,4,Dwarka Sector 10,0
+BL,5,Dwarka Sector 11,0
+BL,6,Dwarka Sector 12,0
+BL,7,Dwarka Sector 13,0
+BL,8,Dwarka Sector 14,0
+BL,9,Dwarka,0
+BL,10,Dwarka Mor,0
+BL,11,Nawada,0
+BL,12,Uttam Nagar West,0
+BL,13,Uttam Nagar East,0
+BL,14,Janakpuri West,1
+BL,15,Janakpuri East,0
+BL,16,Tilak Nagar,0
+BL,17,Subhash Nagar,0
+BL,18,Tagore Garden,0
+BL,19,Rajouri Garden,1
+BL,20,Ramesh Nagar,0
+BL,21,Moti Nagar,0
+BL,22,Kirti Nagar,1
+BL,23,Shadipur,0
+BL,24,Patel Nagar,0
+BL,25,Rajendra Place,0
+BL,26,Karol Bagh,0
+BL,27,Jhandewalan,0
+BL,28,R K Ashram Marg,0
+BL,29,Rajiv Chowk,1
+BL,30,Barakhamba Road,0
+BL,31,Mandi House,1
+BL,32,Pragati Maidan,0
+BL,33,Indraprastha,0
+BL,34,Yamuna Bank,1
+BL,35,Akshardham,0
+BL,36,Mayur Vihar Phase-1,0
+BL,37,Mayur Vihar Extension,1
+BL,38,New Ashok Nagar,0
+BL,39,Noida Sector 15,0
+BL,40,Noida Sector 16,0
+BL,41,Noida Sector 18,0
+BL,42,Botanical Garden,1
+BL,43,Golf Course,0
+BL,44,Noida City Centre,0
+BL,45,Noida Sector 34,0
+BL,46,Noida Sector 52,1
+BL,47,Noida Sector 61,0
+BL,48,Noida Sector 59,0
+BL,49,Noida Sec - 62,0
+BL,50,Noida Electronic City,0
+
+BL_2,1,Yamuna Bank,1
+BL_2,2,Laxmi Nagar,0
+BL_2,3,Nirman Vihar,0
+BL_2,4,Preet Vihar,0
+BL_2,5,Karkarduma,1
+BL_2,6,Anand Vihar,1
+BL_2,7,Kaushambi,0
+BL_2,8,Vaishali,0
+
+VL,1,Kashmere Gate,1
+VL,2,Lal Quila,0
+VL,3,Jama Masjid,0
+VL,4,Delhi Gate,0
+VL,5,ITO,0
+VL,6,Mandi House,1
+VL,7,Janpath,0
+VL,8,Central Secretariat,1
+VL,9,Khan Market,0
+VL,10,JLN Stadium,0
+VL,11,Jangpura,0
+VL,12,Lajpat Nagar,1
+VL,13,Moolchand,0
+VL,14,Kailash Colony,0
+VL,15,Nehru Place,1
+VL,16,Kalkaji Mandir,1
+VL,17,Govind Puri,0
+VL,18,Harkesh Nagar,0
+VL,19,Jasola Apollo,0
+VL,20,Sarita Vihar,0
+VL,21,Mohan Estate,0
+VL,22,Tughlakabad,0
+VL,23,Badarpur,0
+
+MG,1,Janakpuri West,1
+MG,2,Dabri Mor,0
+MG,3,Dashrath Puri,0
+MG,4,Palam,0
+MG,5,Sadar Bazaar Cantonment,0
+MG,6,Terminal 1-IGI Airport,1
+MG,7,Shankar Vihar,0
+MG,8,Vasant Vihar,0
+MG,9,Munirka,0
+MG,10,R K Puram,0
+MG,11,IIT Delhi,0
+MG,12,Hauz Khas,1
+MG,13,Panchsheel Park,0
+MG,14,Chirag Delhi,0
+MG,15,Greater Kailash,0
+MG,16,Nehru Enclave,0
+MG,17,Kalkaji Mandir,1
+MG,18,Okhla NSIC,0
+MG,19,Sukhdev Vihar,0
+MG,20,Jamia Millia Islamia,0
+MG,21,Okhla Vihar,0
+MG,22,Jasola Vihar Shaheen Bagh,0
+MG,23,Kalindi Kunj,0
+MG,24,Okhla Bird Sanctuary,0
+MG,25,Botanical Garden,1
+
+PP,1,Majlis Park,0
+PP,2,Azadpur,1
+PP,3,Shalimar Bagh,0
+PP,4,Netaji Subhash Place,1
+PP,5,Shakurpur,0
+PP,6,Punjabi Bagh West,0
+PP,7,ESI Hospital,0
+PP,8,Rajouri Garden,1
+PP,9,Mayapuri,0
+PP,10,Naraina Vihar,0
+PP,11,Delhi Cantt,0
+PP,12,Durgabai Deshmukh South Campus,0
+PP,13,Sir Vishweshwaraiah Moti Bagh,0
+PP,14,Bhikaji Cama Place,0
+PP,15,Sarojini Nagar,0
+PP,16,INA,1
+PP,17,South Extension,0
+PP,18,Lajpat Nagar,1
+PP,19,Vinobapuri,0
+PP,20,Ashram,0
+PP,21,Sarai Kale Khan Nizamuddin,1
+PP,22,Hazrat Nizamuddin,0
+PP,23,Mayur Vihar Phase-1,1
+PP,24,Mayur Vihar Extension,1
+PP,25,Trilokpuri Sanjay Lake,0
+PP,26,Vinod Nagar East,0
+PP,27,Vinod Nagar,0
+PP,28,IP Extension,0
+PP,29,Anand Vihar,1
+PP,30,Karkarduma,1
+PP,31,Krishna Nagar,0
+PP,32,East Azad Nagar,0
+PP,33,Welcome,1
+PP,34,Jaffrabad,0
+PP,35,Maujpur,0
+PP,36,Gokulpuri,0
+PP,37,Johri Enclave,0
+PP,38,Shiv Vihar,0
+
+AE,1,New Delhi,1
+AE,2,Shivaji Stadium,0
+AE,3,Dhaula Kuan,0
+AE,4,Delhi Aerocity,0
+AE,5,IGI Airport T3,1
+AE,6,Dwarka Sector 21,1
+
+GR,1,Dwarka,1
+GR,2,Nangli,0
+GR,3,Najafgarh,0
+
+OR,1,New Delhi,1
+OR,2,Delhi Aerocity,0
+OR,3,IGI Airport T3,1
+OR,4,Yashobhoomi Dwarka Sector 25,0
+

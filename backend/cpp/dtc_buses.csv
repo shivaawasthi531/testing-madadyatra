@@ -1,0 +1,395 @@
+bus_number,start_point,end_point,first_departure,last_departure,fare_base
+18,Kashmere Gate,Delhi Cantt,05:00,23:00,10
+54,Anand Vihar ISBT,Janakpuri,05:30,22:30,10
+78,Red Fort,Rohini Sec-18,06:00,23:00,10
+89,Connaught Place,Dwarka Sec-21,05:15,22:45,10
+116,ISBT Sarai Kale Khan,Narela,05:45,22:15,10
+122,INA Market,Pitampura,06:15,23:15,10
+138,Lajpat Nagar,Shahdara,05:30,22:30,10
+142,New Delhi Railway Station,Vikas Puri,05:00,23:00,10
+156,Hauz Khas,Mayur Vihar Phase-1,06:00,22:45,10
+165,Model Town,Uttam Nagar,05:45,22:30,10
+178,Dhaula Kuan,Laxmi Nagar,05:15,23:00,10
+184,Nehru Place,Seelampur,06:30,22:15,10
+192,Rajouri Garden,Yamuna Vihar,05:30,23:15,10
+205,Sarojini Nagar,Gandhi Nagar,05:45,22:45,10
+217,Punjabi Bagh,Mandawali,06:00,22:30,10
+223,South Extension,Karol Bagh,05:15,23:00,10
+236,Saket,Patel Nagar,05:30,22:45,10
+245,Vasant Vihar,Krishna Nagar,06:15,22:15,10
+251,Greater Kailash,Shastri Park,05:45,23:15,10
+263,Chanakyapuri,Dilshad Garden,05:00,22:30,10
+271,Chandni Chowk,Mukherjee Nagar,05:30,23:00,10
+282,Moti Nagar,Gokulpuri,06:00,22:45,10
+294,Janpath,Welcome,05:15,22:15,10
+302,Palam,Sonia Vihar,05:45,23:15,10
+315,Ashram,Azadpur,06:30,22:30,10
+324,Kailash Colony,Burari,05:30,23:00,10
+331,Nirman Vihar,Alipur,05:45,22:45,10
+347,Lodhi Colony,Bawana,06:00,22:15,10
+358,Safdarjung,Samaypur Badli,05:15,23:15,10
+365,Khan Market,Rohini Sec-8,05:30,22:30,10
+372,Green Park,GTB Nagar,06:15,22:45,10
+381,Malviya Nagar,Keshav Puram,05:45,23:00,10
+395,Hauz Khas Village,Pratap Nagar,05:00,22:15,10
+402,RK Puram,Shalimar Bagh,05:30,23:15,10
+413,Munirka,Tri Nagar,06:00,22:30,10
+421,Vasant Kunj,Nangloi,05:45,23:00,10
+432,Mahipalpur,Sultanpur Majra,05:15,22:45,10
+444,Mehrauli,Begumpur,06:30,22:15,10
+451,Qutub Minar,Rithala,05:30,23:15,10
+462,Chhatarpur,Mundka,05:45,22:30,10
+471,Mehrauli Badarpur Road,Nangli Sakrawati,06:00,23:00,10
+483,Okhla,Ghevra,05:15,22:45,10
+492,Jamia Nagar,Bindapur,05:30,22:15,10
+504,Kalkaji,Mohan Garden,06:15,23:15,10
+513,Govindpuri,Uttam Nagar West,05:45,22:30,10
+521,Kalindi Kunj,Najafgarh,06:00,23:00,10
+532,Jasola Village,Sultan Puri,05:15,22:45,10
+541,Shivalik,Madhu Vihar,05:30,22:15,10
+553,Chirag Delhi,Sadar Bazar,06:15,23:15,10
+562,Andrews Ganj,Kashmere Gate,05:45,22:30,10
+571,Defence Colony,Rajendra Nagar,06:00,23:00,10
+582,Bhikaji Cama Place,Mori Gate,05:15,22:45,10
+591,Africa Avenue,Wazirpur,05:30,22:15,10
+603,Nehru Stadium,Shakur Basti,06:15,23:15,10
+614,Sirifort,Karampura,05:45,22:30,10
+623,Batra Hospital,Pratap Nagar,06:00,23:00,10
+634,Pushp Vihar,Sarita Vihar,05:15,22:45,10
+645,Sainik Farm,Tughlakabad,05:30,22:15,10
+656,Sheikh Sarai,Chandni Chowk,06:15,23:15,10
+667,Press Enclave,ISBT,05:45,22:30,10
+678,M B Road,Kirti Nagar,06:00,23:00,10
+689,Panchsheel Enclave,Shadipur,05:15,22:45,10
+690,Siri Fort,Patel Nagar,05:30,22:15,10
+701,Aurobindo Marg,Naraina,06:15,23:15,10
+712,Adchini,Ramesh Nagar,05:45,22:30,10
+723,Katwaria Sarai,Subhash Nagar,06:00,23:00,10
+734,Ma Anandmayee Marg,Tilak Nagar,05:15,22:45,10
+745,Rangpuri,Janakpuri,05:30,22:15,10
+756,Vasant Gaon,Uttam Nagar,06:15,23:15,10
+767,Rashtrapati Bhawan,Vikaspuri,05:45,22:30,10
+778,Niti Marg,Nangloi,06:00,23:00,10
+789,Sardar Patel Marg,Sultanpur Majra,05:15,22:45,10
+790,Shanti Path,Gokulpuri,05:30,22:15,10
+801,Chanakya Puri,Sonia Vihar,06:15,23:15,10
+812,Parliament Street,Burari,05:45,22:30,10
+823,Janpath,Alipur,06:00,23:00,10
+834,India Gate,Bawana,05:15,22:45,10
+845,National Stadium,Samaypur Badli,05:30,22:15,10
+856,Pragati Maidan,Rohini Sec-8,06:15,23:15,10
+867,Purana Qila,GTB Nagar,05:45,22:30,10
+878,Nizamuddin,Keshav Puram,06:00,23:00,10
+889,Lodhi Road,Pratap Nagar,05:15,22:45,10
+890,Jor Bagh,Shalimar Bagh,05:30,22:15,10
+901,Safdarjung Airport,Tri Nagar,06:15,23:15,10
+912,Race Course,Nangloi,05:45,22:30,10
+923,Shanti Niketan,Sultanpur Majra,06:00,23:00,10
+934,Vasant Vihar Market,Begumpur,05:15,22:45,10
+945,R K Puram Sec-3,Rithala,05:30,22:15,10
+956,Munirka Vihar,Mundka,06:15,23:15,10
+967,Satya Niketan,Nangli Sakrawati,05:45,22:30,10
+978,Nanak Pura,Ghevra,06:00,23:00,10
+989,Kishan Garh,Bindapur,05:15,22:45,10
+990,Shankar Vihar,Mohan Garden,05:30,22:15,10
+511,Najafgarh,Delhi Cantt,04:45,22:45,10
+512,Najafgarh,Kashmere Gate,05:00,23:00,10
+513,Najafgarh,Connaught Place,05:15,22:45,10
+514,Najafgarh,Nehru Place,05:30,23:00,10
+515,Najafgarh,ISBT,05:45,22:30,10
+516,Najafgarh,Anand Vihar,06:00,22:45,10
+517,Najafgarh,Rohini,05:15,23:15,10
+518,Najafgarh,Dwarka,05:30,22:30,10
+519,Najafgarh,Punjabi Bagh,05:45,23:00,10
+520,Najafgarh,Lajpat Nagar,06:00,22:45,10
+521,Kair,Gurgaon Bus Stand,05:00,22:00,15
+522,Kair,Rajiv Chowk,05:30,22:30,15
+523,Kair,IGI Airport,05:45,22:15,15
+524,Kair,Dwarka Sec-21,06:00,22:45,15
+525,Kair,Palam,05:15,22:30,15
+526,Kair,Janakpuri,05:45,23:00,15
+527,Kair,Uttam Nagar,06:15,22:45,15
+528,Kair,Najafgarh,05:30,22:15,10
+529,Kair,Mohan Garden,05:45,22:30,10
+530,Dichao Kalan,Dwarka Sec-14,05:00,22:00,10
+531,Dichao Kalan,Palam,05:30,22:30,10
+532,Dichao Kalan,IGI Airport,05:45,22:15,10
+533,Dichao Kalan,Janakpuri,06:00,22:45,10
+534,Dichao Kalan,Uttam Nagar,05:15,22:30,10
+535,Dichao Kalan,Najafgarh,05:45,23:00,10
+536,Dichao Kalan,Kair,06:15,22:45,10
+537,Dichao Kalan,Gurgaon,05:30,22:15,15
+538,Dichao Kalan,Delhi Cantt,05:45,22:30,10
+539,Dichao Kalan,Kashmere Gate,06:00,22:45,10
+540,Nangloi,Najafgarh,04:45,22:45,10
+541,Nangloi,Kair,05:00,23:00,10
+542,Nangloi,Dichao Kalan,05:15,22:45,10
+543,Nangloi,Punjabi Bagh,05:30,23:00,10
+544,Nangloi,Rajouri Garden,05:45,22:30,10
+545,Nangloi,Karol Bagh,06:00,22:45,10
+546,Nangloi,Connaught Place,05:15,23:15,10
+547,Nangloi,New Delhi Railway Station,05:30,22:30,10
+548,Nangloi,ISBT,05:45,23:00,10
+549,Nangloi,Red Fort,06:00,22:45,10
+550,Mundka,Najafgarh,05:00,22:00,10
+551,Mundka,Nangloi,05:30,22:30,10
+552,Mundka,Punjabi Bagh,05:45,22:15,10
+553,Mundka,Rohini,06:00,22:45,10
+554,Mundka,GTB Nagar,05:15,22:30,10
+555,Mundka,Kashmere Gate,05:45,23:00,10
+556,Mundka,ISBT,06:15,22:45,10
+557,Mundka,Anand Vihar,05:30,22:15,10
+558,Mundka,Seelampur,05:45,22:30,10
+559,Mundka,Dilshad Garden,06:00,22:45,10
+560,Bawana,Narela,05:00,22:00,10
+561,Bawana,Rohini,05:30,22:30,10
+562,Bawana,Pitampura,05:45,22:15,10
+563,Bawana,Azadpur,06:00,22:45,10
+564,Bawana,Kashmere Gate,05:15,22:30,10
+565,Bawana,Red Fort,05:45,23:00,10
+566,Bawana,Connaught Place,06:15,22:45,10
+567,Bawana,New Delhi Railway Station,05:30,22:15,10
+568,Bawana,ISBT,05:45,22:30,10
+569,Bawana,Anand Vihar,06:00,22:45,10
+570,Narela,Burari,05:00,22:00,10
+571,Narela,Alipur,05:30,22:30,10
+572,Narela,Kashmere Gate,05:45,22:15,10
+573,Narela,ISBT,06:00,22:45,10
+574,Narela,Red Fort,05:15,22:30,10
+575,Narela,Chandni Chowk,05:45,23:00,10
+576,Narela,Connaught Place,06:15,22:45,10
+577,Narela,New Delhi Railway Station,05:30,22:15,10
+578,Narela,Pragati Maidan,05:45,22:30,10
+579,Narela,Ashram,06:00,22:45,10
+580,Alipur,Burari,05:00,22:00,10
+581,Alipur,Narela,05:30,22:30,10
+582,Alipur,Kashmere Gate,05:45,22:15,10
+583,Alipur,ISBT,06:00,22:45,10
+584,Alipur,Red Fort,05:15,22:30,10
+585,Alipur,Chandni Chowk,05:45,23:00,10
+586,Alipur,Connaught Place,06:15,22:45,10
+587,Alipur,New Delhi Railway Station,05:30,22:15,10
+588,Alipur,Pragati Maidan,05:45,22:30,10
+589,Alipur,Ashram,06:00,22:45,10
+590,Burari,Timarpur,05:00,22:00,10
+591,Burari,Civil Lines,05:30,22:30,10
+592,Burari,Kashmere Gate,05:45,22:15,10
+593,Burari,ISBT,06:00,22:45,10
+594,Burari,Red Fort,05:15,22:30,10
+595,Burari,Chandni Chowk,05:45,23:00,10
+596,Burari,Connaught Place,06:15,22:45,10
+597,Burari,New Delhi Railway Station,05:30,22:15,10
+598,Burari,Pragati Maidan,05:45,22:30,10
+599,Burari,Ashram,06:00,22:45,10
+600,Samaypur Badli,Rohini,05:00,22:00,10
+601,Samaypur Badli,Pitampura,05:30,22:30,10
+602,Samaypur Badli,Azadpur,05:45,22:15,10
+603,Samaypur Badli,Kashmere Gate,06:00,22:45,10
+604,Samaypur Badli,ISBT,05:15,22:30,10
+605,Samaypur Badli,Red Fort,05:45,23:00,10
+606,Samaypur Badli,Chandni Chowk,06:15,22:45,10
+607,Samaypur Badli,Connaught Place,05:30,22:15,10
+608,Samaypur Badli,New Delhi Railway Station,05:45,22:30,10
+609,Samaypur Badli,Pragati Maidan,06:00,22:45,10
+610,Rithala,Rohini Sec-18,05:00,22:00,10
+611,Rithala,Netaji Subhash Place,05:30,22:30,10
+612,Rithala,Pitampura,05:45,22:15,10
+613,Rithala,Azadpur,06:00,22:45,10
+614,Rithala,Kashmere Gate,05:15,22:30,10
+615,Rithala,ISBT,05:45,23:00,10
+616,Rithala,Red Fort,06:15,22:45,10
+617,Rithala,Chandni Chowk,05:30,22:15,10
+618,Rithala,Connaught Place,05:45,22:30,10
+619,Rithala,New Delhi Railway Station,06:00,22:45,10
+620,Rohini Sec-1,Sec-3,05:00,22:00,10
+621,Rohini Sec-3,Sec-7,05:30,22:30,10
+622,Rohini Sec-7,Sec-11,05:45,22:15,10
+623,Rohini Sec-11,Sec-14,06:00,22:45,10
+624,Rohini Sec-14,Sec-16,05:15,22:30,10
+625,Rohini Sec-16,Sec-18,05:45,23:00,10
+626,Rohini Sec-18,Pitampura,06:15,22:45,10
+627,Rohini Sec-1,Azadpur,05:30,22:15,10
+628,Rohini Sec-3,Kashmere Gate,05:45,22:30,10
+629,Rohini Sec-7,ISBT,06:00,22:45,10
+630,Pitampura,Netaji Subhash Place,05:00,22:00,10
+631,Pitampura,Rohini Sec-1,05:30,22:30,10
+632,Pitampura,Rohini Sec-3,05:45,22:15,10
+633,Pitampura,Rohini Sec-7,06:00,22:45,10
+634,Pitampura,Rohini Sec-11,05:15,22:30,10
+635,Pitampura,Rohini Sec-14,05:45,23:00,10
+636,Pitampura,Rohini Sec-16,06:15,22:45,10
+637,Pitampura,Rohini Sec-18,05:30,22:15,10
+638,Pitampura,Azadpur,05:45,22:30,10
+639,Pitampura,Kashmere Gate,06:00,22:45,10
+640,Netaji Subhash Place,Rohini Sec-1,05:00,22:00,10
+641,Netaji Subhash Place,Rohini Sec-3,05:30,22:30,10
+642,Netaji Subhash Place,Rohini Sec-7,05:45,22:15,10
+643,Netaji Subhash Place,Rohini Sec-11,06:00,22:45,10
+644,Netaji Subhash Place,Rohini Sec-14,05:15,22:30,10
+645,Netaji Subhash Place,Rohini Sec-16,05:45,23:00,10
+646,Netaji Subhash Place,Rohini Sec-18,06:15,22:45,10
+647,Netaji Subhash Place,Pitampura,05:30,22:15,10
+648,Netaji Subhash Place,Azadpur,05:45,22:30,10
+649,Netaji Subhash Place,Kashmere Gate,06:00,22:45,10
+650,Azadpur,Sabzi Mandi,05:00,22:00,10
+651,Azadpur,Pratap Nagar,05:30,22:30,10
+652,Azadpur,Shakur Basti,05:45,22:15,10
+653,Azadpur,Punjabi Bagh,06:00,22:45,10
+654,Azadpur,Rajouri Garden,05:15,22:30,10
+655,Azadpur,Kirti Nagar,05:45,23:00,10
+656,Azadpur,Moti Nagar,06:15,22:45,10
+657,Azadpur,Ramesh Nagar,05:30,22:15,10
+658,Azadpur,Patel Nagar,05:45,22:30,10
+659,Azadpur,Rajendra Place,06:00,22:45,10
+660,Sabzi Mandi,Pratap Nagar,05:00,22:00,10
+661,Sabzi Mandi,Shakur Basti,05:30,22:30,10
+662,Sabzi Mandi,Punjabi Bagh,05:45,22:15,10
+663,Sabzi Mandi,Rajouri Garden,06:00,22:45,10
+664,Sabzi Mandi,Kirti Nagar,05:15,22:30,10
+665,Sabzi Mandi,Moti Nagar,05:45,23:00,10
+666,Sabzi Mandi,Ramesh Nagar,06:15,22:45,10
+667,Sabzi Mandi,Patel Nagar,05:30,22:15,10
+668,Sabzi Mandi,Rajendra Place,05:45,22:30,10
+669,Sabzi Mandi,Karol Bagh,06:00,22:45,10
+670,Pratap Nagar,Shakur Basti,05:00,22:00,10
+671,Pratap Nagar,Punjabi Bagh,05:30,22:30,10
+672,Pratap Nagar,Rajouri Garden,05:45,22:15,10
+673,Pratap Nagar,Kirti Nagar,06:00,22:45,10
+674,Pratap Nagar,Moti Nagar,05:15,22:30,10
+675,Pratap Nagar,Ramesh Nagar,05:45,23:00,10
+676,Pratap Nagar,Patel Nagar,06:15,22:45,10
+677,Pratap Nagar,Rajendra Place,05:30,22:15,10
+678,Pratap Nagar,Karol Bagh,05:45,22:30,10
+679,Pratap Nagar,Paharganj,06:00,22:45,10
+680,Shakur Basti,Punjabi Bagh,05:00,22:00,10
+681,Shakur Basti,Rajouri Garden,05:30,22:30,10
+682,Shakur Basti,Kirti Nagar,05:45,22:15,10
+683,Shakur Basti,Moti Nagar,06:00,22:45,10
+684,Shakur Basti,Ramesh Nagar,05:15,22:30,10
+685,Shakur Basti,Patel Nagar,05:45,23:00,10
+686,Shakur Basti,Rajendra Place,06:15,22:45,10
+687,Shakur Basti,Karol Bagh,05:30,22:15,10
+688,Shakur Basti,Paharganj,05:45,22:30,10
+689,Shakur Basti,New Delhi Railway Station,06:00,22:45,10
+690,Punjabi Bagh,Rajouri Garden,05:00,22:00,10
+691,Punjabi Bagh,Kirti Nagar,05:30,22:30,10
+692,Punjabi Bagh,Moti Nagar,05:45,22:15,10
+693,Punjabi Bagh,Ramesh Nagar,06:00,22:45,10
+694,Punjabi Bagh,Patel Nagar,05:15,22:30,10
+695,Punjabi Bagh,Rajendra Place,05:45,23:00,10
+696,Punjabi Bagh,Karol Bagh,06:15,22:45,10
+697,Punjabi Bagh,Paharganj,05:30,22:15,10
+698,Punjabi Bagh,New Delhi Railway Station,05:45,22:30,10
+699,Punjabi Bagh,Connaught Place,06:00,22:45,10
+700,Rajouri Garden,Kirti Nagar,05:00,22:00,10
+701,Rajouri Garden,Moti Nagar,05:30,22:30,10
+702,Rajouri Garden,Ramesh Nagar,05:45,22:15,10
+703,Rajouri Garden,Patel Nagar,06:00,22:45,10
+704,Rajouri Garden,Rajendra Place,05:15,22:30,10
+705,Rajouri Garden,Karol Bagh,05:45,23:00,10
+706,Rajouri Garden,Paharganj,06:15,22:45,10
+707,Rajouri Garden,New Delhi Railway Station,05:30,22:15,10
+708,Rajouri Garden,Connaught Place,05:45,22:30,10
+709,Rajouri Garden,India Gate,06:00,22:45,10
+710,Kirti Nagar,Moti Nagar,05:00,22:00,10
+711,Kirti Nagar,Ramesh Nagar,05:30,22:30,10
+712,Kirti Nagar,Patel Nagar,05:45,22:15,10
+713,Kirti Nagar,Rajendra Place,06:00,22:45,10
+714,Kirti Nagar,Karol Bagh,05:15,22:30,10
+715,Kirti Nagar,Paharganj,05:45,23:00,10
+716,Kirti Nagar,New Delhi Railway Station,06:15,22:45,10
+717,Kirti Nagar,Connaught Place,05:30,22:15,10
+718,Kirti Nagar,India Gate,05:45,22:30,10
+719,Kirti Nagar,South Extension,06:00,22:45,10
+720,Moti Nagar,Ramesh Nagar,05:00,22:00,10
+721,Moti Nagar,Patel Nagar,05:30,22:30,10
+722,Moti Nagar,Rajendra Place,05:45,22:15,10
+723,Moti Nagar,Karol Bagh,06:00,22:45,10
+724,Moti Nagar,Paharganj,05:15,22:30,10
+725,Moti Nagar,New Delhi Railway Station,05:45,23:00,10
+726,Moti Nagar,Connaught Place,06:15,22:45,10
+727,Moti Nagar,India Gate,05:30,22:15,10
+728,Moti Nagar,South Extension,05:45,22:30,10
+729,Moti Nagar,Lajpat Nagar,06:00,22:45,10
+730,Ramesh Nagar,Patel Nagar,05:00,22:00,10
+731,Ramesh Nagar,Rajendra Place,05:30,22:30,10
+732,Ramesh Nagar,Karol Bagh,05:45,22:15,10
+733,Ramesh Nagar,Paharganj,06:00,22:45,10
+734,Ramesh Nagar,New Delhi Railway Station,05:15,22:30,10
+735,Ramesh Nagar,Connaught Place,05:45,23:00,10
+736,Ramesh Nagar,India Gate,06:15,22:45,10
+737,Ramesh Nagar,South Extension,05:30,22:15,10
+738,Ramesh Nagar,Lajpat Nagar,05:45,22:30,10
+739,Ramesh Nagar,Nehru Place,06:00,22:45,10
+740,Patel Nagar,Rajendra Place,05:00,22:00,10
+741,Patel Nagar,Karol Bagh,05:30,22:30,10
+742,Patel Nagar,Paharganj,05:45,22:15,10
+743,Patel Nagar,New Delhi Railway Station,06:00,22:45,10
+744,Patel Nagar,Connaught Place,05:15,22:30,10
+745,Patel Nagar,India Gate,05:45,23:00,10
+746,Patel Nagar,South Extension,06:15,22:45,10
+747,Patel Nagar,Lajpat Nagar,05:30,22:15,10
+748,Patel Nagar,Nehru Place,05:45,22:30,10
+749,Patel Nagar,Kalkaji,06:00,22:45,10
+750,Rajendra Place,Karol Bagh,05:00,22:00,10
+751,Rajendra Place,Paharganj,05:30,22:30,10
+752,Rajendra Place,New Delhi Railway Station,05:45,22:15,10
+753,Rajendra Place,Connaught Place,06:00,22:45,10
+754,Rajendra Place,India Gate,05:15,22:30,10
+755,Rajendra Place,South Extension,05:45,23:00,10
+756,Rajendra Place,Lajpat Nagar,06:15,22:45,10
+757,Rajendra Place,Nehru Place,05:30,22:15,10
+758,Rajendra Place,Kalkaji,05:45,22:30,10
+759,Rajendra Place,Okhla,06:00,22:45,10
+760,Karol Bagh,Paharganj,05:00,22:00,10
+761,Karol Bagh,New Delhi Railway Station,05:30,22:30,10
+762,Karol Bagh,Connaught Place,05:45,22:15,10
+763,Karol Bagh,India Gate,06:00,22:45,10
+764,Karol Bagh,South Extension,05:15,22:30,10
+765,Karol Bagh,Lajpat Nagar,05:45,23:00,10
+766,Karol Bagh,Nehru Place,06:15,22:45,10
+767,Karol Bagh,Kalkaji,05:30,22:15,10
+768,Karol Bagh,Okhla,05:45,22:30,10
+769,Karol Bagh,Jamia Nagar,06:00,22:45,10
+770,Paharganj,New Delhi Railway Station,05:00,22:00,10
+771,Paharganj,Connaught Place,05:30,22:30,10
+772,Paharganj,India Gate,05:45,22:15,10
+773,Paharganj,South Extension,06:00,22:45,10
+774,Paharganj,Lajpat Nagar,05:15,22:30,10
+775,Paharganj,Nehru Place,05:45,23:00,10
+776,Paharganj,Kalkaji,06:15,22:45,10
+777,Paharganj,Okhla,05:30,22:15,10
+778,Paharganj,Jamia Nagar,05:45,22:30,10
+779,Paharganj,Badarpur,06:00,22:45,10
+780,New Delhi Railway Station,Connaught Place,05:00,22:00,10
+781,New Delhi Railway Station,India Gate,05:30,22:30,10
+782,New Delhi Railway Station,South Extension,05:45,22:15,10
+783,New Delhi Railway Station,Lajpat Nagar,06:00,22:45,10
+784,New Delhi Railway Station,Nehru Place,05:15,22:30,10
+785,New Delhi Railway Station,Kalkaji,05:45,23:00,10
+786,New Delhi Railway Station,Okhla,06:15,22:45,10
+787,New Delhi Railway Station,Jamia Nagar,05:30,22:15,10
+788,New Delhi Railway Station,Badarpur,05:45,22:30,10
+789,New Delhi Railway Station,Faridabad,06:00,22:45,15
+790,Connaught Place,India Gate,05:00,22:00,10
+791,Connaught Place,South Extension,05:30,22:30,10
+792,Connaught Place,Lajpat Nagar,05:45,22:15,10
+793,Connaught Place,Nehru Place,06:00,22:45,10
+794,Connaught Place,Kalkaji,05:15,22:30,10
+795,Connaught Place,Okhla,05:45,23:00,10
+796,Connaught Place,Jamia Nagar,06:15,22:45,10
+797,Connaught Place,Badarpur,05:30,22:15,10
+798,Connaught Place,Faridabad,05:45,22:30,15
+799,Connaught Place,Noida,06:00,22:45,15
+800,India Gate,South Extension,05:00,22:00,10
+bus_number,start_point,end_point,first_departure,last_departure,fare_base
+1,Kashmere Gate,Connaught Place,05:00,23:00,10
+2,ISBT Kashmere Gate,Karol Bagh,05:30,22:30,10
+3,Red Fort,Nehru Place,06:00,23:00,10
+4,Anand Vihar ISBT,Rajouri Garden,05:15,22:45,10
+5,Dwarka Sec-21,Noida Sec-62,05:45,22:15,15
+6,Rohini Sec-16,Lajpat Nagar,06:15,23:15,10
+7,Punjabi Bagh,Saket,05:30,22:30,10
+8,Mayur Vihar Phase-1,Delhi Cantt,05:00,23:00,10
+9,Model Town,Okhla,05:45,22:30,10
+10,New Delhi Railway Station,Shahdara,06:00,22:45,10

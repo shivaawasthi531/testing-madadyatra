@@ -1,0 +1,3734 @@
+bus_number,stop_order,stop_name,fare
+bus_number,stop_order,stop_name,fare
+18,1,Kashmere Gate,0
+18,2,ITO,5
+18,3,India Gate,10
+18,4,South Extension,15
+18,5,Hauz Khas,20
+18,6,Munirka,25
+18,7,Naraina,30
+18,8,Rajouri Garden,35
+18,9,Janakpuri,40
+18,10,Delhi Cantt,45
+54,1,Anand Vihar ISBT,0
+54,2,Preet Vihar,5
+54,3,Nirman Vihar,10
+54,4,Laxmi Nagar,15
+54,5,Rajghat,20
+54,6,Red Fort,25
+54,7,Chandni Chowk,30
+54,8,Karol Bagh,35
+54,9,Rajendra Place,40
+54,10,Janakpuri,45
+78,1,Red Fort,0
+78,2,Kashmere Gate,5
+78,3,ISBT,10
+78,4,Majnu Ka Tilla,15
+78,5,Vijay Nagar,20
+78,6,Kingsway Camp,25
+78,7,GTB Nagar,30
+78,8,Model Town,35
+78,9,Pitampura,40
+78,10,Rohini Sec-18,45
+89,1,Connaught Place,0
+89,2,Patel Chowk,5
+89,3,Race Course,10
+89,4,Safdarjung,15
+89,5,Green Park,20
+89,6,Hauz Khas,25
+89,7,Malviya Nagar,30
+89,8,Saket,35
+89,9,IGI Airport,40
+89,10,Dwarka Sec-21,45
+116,1,ISBT Sarai Kale Khan,0
+116,2,Lajpat Nagar,5
+116,3,Ashram,10
+116,4,Sarai Kale Khan,15
+116,5,Mathura Road,20
+116,6,Badarpur,25
+116,7,Tuglakabad,30
+116,8,Sangam Vihar,35
+116,9,Deoli,40
+116,10,Narela,45
+122,1,INA Market,0
+122,2,South Extension,5
+122,3,Lajpat Nagar,10
+122,4,Defence Colony,15
+122,5,Siri Fort,20
+122,6,Chirag Delhi,25
+122,7,Greater Kailash,30
+122,8,Alaknanda,35
+122,9,Chittaranjan Park,40
+122,10,Pitampura,45
+138,1,Lajpat Nagar,0
+138,2,Nehru Place,5
+138,3,Kalkaji,10
+138,4,Govindpuri,15
+138,5,Harkesh Nagar,20
+138,6,Okhla,25
+138,7,Jamia Nagar,30
+138,8,Abul Fazal,35
+138,9,Shahdara,40
+138,10,Geeta Colony,45
+142,1,New Delhi Railway Station,0
+142,2,Paharganj,5
+142,3,Karol Bagh,10
+142,4,Rajendra Place,15
+142,5,Patel Nagar,20
+142,6,Moti Nagar,25
+142,7,Ramesh Nagar,30
+142,8,Tilak Nagar,35
+142,9,Subhash Nagar,40
+142,10,Vikas Puri,45
+156,1,Hauz Khas,0
+156,2,Green Park,5
+156,3,Safdarjung,10
+156,4,INA,15
+156,5,Lodhi Colony,20
+156,6,Jor Bagh,25
+156,7,Laxmibai Nagar,30
+156,8,Sarita Vihar,35
+156,9,Mayur Vihar,40
+156,10,Anand Vihar,45
+165,1,Model Town,0
+165,2,Hudson Lane,5
+165,3,GTB Nagar,10
+165,4,Vishwavidyalaya,15
+165,5,Maurice Nagar,20
+165,6,Kamla Nagar,25
+165,7,Chandni Chowk,30
+165,8,Darya Ganj,35
+165,9,Tilak Nagar,40
+165,10,Uttam Nagar,45
+178,1,Dhaula Kuan,0
+178,2,Satya Niketan,5
+178,3,Motibagh,10
+178,4,R K Puram,15
+178,5,Sarojini Nagar,20
+178,6,South Extension,25
+178,7,Lajpat Nagar,30
+178,8,Ashram,35
+178,9,Nizamuddin,40
+178,10,Laxmi Nagar,45
+184,1,Nehru Place,0
+184,2,Kalkaji,5
+184,3,Okhla,10
+184,4,Jamia Nagar,15
+184,5,Abul Fazal,20
+184,6,Batla House,25
+184,7,Shahdara,30
+184,8,Geeta Colony,35
+184,9,Shastri Park,40
+184,10,Seelampur,45
+192,1,Rajouri Garden,0
+192,2,Maya Puri,5
+192,3,Naraina,10
+192,4,Kirti Nagar,15
+192,5,Shadipur,20
+192,6,Patel Nagar,25
+192,7,Rajendra Place,30
+192,8,Karol Bagh,35
+192,9,Paharganj,40
+192,10,Yamuna Vihar,45
+205,1,Sarojini Nagar,0
+205,2,INA Market,5
+205,3,Lodhi Colony,10
+205,4,Jor Bagh,15
+205,5,Laxmibai Nagar,20
+205,6,Sarita Vihar,25
+205,7,Kalindi Kunj,30
+205,8,Jasola,35
+205,9,Okhla,40
+205,10,Gandhi Nagar,45
+217,1,Punjabi Bagh,0
+217,2,Punjabi Bagh West,5
+217,3,Shivaji Park,10
+217,4,Moti Nagar,15
+217,5,Ramesh Nagar,20
+217,6,Subhash Nagar,25
+217,7,Tilak Nagar,30
+217,8,Janakpuri,35
+217,9,Uttam Nagar,40
+217,10,Mandawali,45
+223,1,South Extension,0
+223,2,Defence Colony,5
+223,3,Lajpat Nagar,10
+223,4,Nehru Place,15
+223,5,Kalkaji,20
+223,6,Okhla,25
+223,7,Govindpuri,30
+223,8,Sangam Vihar,35
+223,9,Khanpur,40
+223,10,Karol Bagh,45
+236,1,Saket,0
+236,2,Press Enclave,5
+236,3,Malviya Nagar,10
+236,4,Hauz Khas,15
+236,5,Green Park,20
+236,6,Safdarjung,25
+236,7,Chanakyapuri,30
+236,8,R K Puram,35
+236,9,Motibagh,40
+236,10,Patel Nagar,45
+245,1,Vasant Vihar,0
+245,2,Munirka,5
+245,3,R K Puram,10
+245,4,Sarojini Nagar,15
+245,5,South Extension,20
+245,6,Lajpat Nagar,25
+245,7,Ashram,30
+245,8,Nizamuddin,35
+245,9,Mayur Vihar,40
+245,10,Krishna Nagar,45
+251,1,Greater Kailash,0
+251,2,Chittaranjan Park,5
+251,3,Alaknanda,10
+251,4,Sarita Vihar,15
+251,5,Badarpur,20
+251,6,Tuglakabad,25
+251,7,Sangam Vihar,30
+251,8,Khanpur,35
+251,9,Jamia Nagar,40
+251,10,Shastri Park,45
+263,1,Chanakyapuri,0
+263,2,Safdarjung,5
+263,3,Green Park,10
+263,4,Hauz Khas,15
+263,5,Malviya Nagar,20
+263,6,Saket,25
+263,7,Mehrauli,30
+263,8,Qutub Minar,35
+263,9,Chhatarpur,40
+263,10,Dilshad Garden,45
+271,1,Chandni Chowk,0
+271,2,Red Fort,5
+271,3,Kashmere Gate,10
+271,4,ISBT,15
+271,5,Majnu Ka Tilla,20
+271,6,Civil Lines,25
+271,7,Vijay Nagar,30
+271,8,Hudson Lane,35
+271,9,GTB Nagar,40
+271,10,Mukherjee Nagar,45
+282,1,Moti Nagar,0
+282,2,Ramesh Nagar,5
+282,3,Subhash Nagar,10
+282,4,Tilak Nagar,15
+282,5,Janakpuri,20
+282,6,Uttam Nagar,25
+282,7,Najafgarh,30
+282,8,Nangloi,35
+282,9,Sultanpur Majra,40
+282,10,Gokulpuri,45
+294,1,Janpath,0
+294,2,Connaught Place,5
+294,3,Patel Chowk,10
+294,4,Race Course,15
+294,5,Safdarjung,20
+294,6,Green Park,25
+294,7,Hauz Khas,30
+294,8,Malviya Nagar,35
+294,9,Saket,40
+294,10,Welcome,45
+302,1,Palam,0
+302,2,Dabri,5
+302,3,Janakpuri,10
+302,4,Uttam Nagar,15
+302,5,Najafgarh,20
+302,6,Mundka,25
+302,7,Nangloi,30
+302,8,Sultanpur Majra,35
+302,9,Begumpur,40
+302,10,Sonia Vihar,45
+315,1,Ashram,0
+315,2,Sarai Kale Khan,5
+315,3,Nizamuddin,10
+315,4,Laxmi Nagar,15
+315,5,Preet Vihar,20
+315,6,Nirman Vihar,25
+315,7,Anand Vihar,30
+315,8,Karkardooma,35
+315,9,Shahdara,40
+315,10,Azadpur,45
+324,1,Kailash Colony,0
+324,2,Nehru Place,5
+324,3,Kalkaji,10
+324,4,Okhla,15
+324,5,Jamia Nagar,20
+324,6,Abul Fazal,25
+324,7,Batla House,30
+324,8,Shahdara,35
+324,9,Geeta Colony,40
+324,10,Burari,45
+331,1,Nirman Vihar,0
+331,2,Preet Vihar,5
+331,3,Karkardooma,10
+331,4,Anand Vihar,15
+331,5,Shahdara,20
+331,6,Wazirabad,25
+331,7,Timarpur,30
+331,8,Civil Lines,35
+331,9,Kashmere Gate,40
+331,10,Alipur,45
+347,1,Lodhi Colony,0
+347,2,Jor Bagh,5
+347,3,Laxmibai Nagar,10
+347,4,Sarita Vihar,15
+347,5,Kalindi Kunj,20
+347,6,Jasola,25
+347,7,Okhla,30
+347,8,Badarpur,35
+347,9,Tuglakabad,40
+347,10,Bawana,45
+358,1,Safdarjung,0
+358,2,Green Park,5
+358,3,Hauz Khas,10
+358,4,Malviya Nagar,15
+358,5,Saket,20
+358,6,Mehrauli,25
+358,7,Qutub Minar,30
+358,8,Chhatarpur,35
+358,9,Mahipalpur,40
+358,10,Samaypur Badli,45
+365,1,Khan Market,0
+365,2,India Gate,5
+365,3,Connaught Place,10
+365,4,Patel Chowk,15
+365,5,Race Course,20
+365,6,Safdarjung,25
+365,7,Green Park,30
+365,8,Hauz Khas,35
+365,9,Malviya Nagar,40
+365,10,Rohini Sec-8,45
+372,1,Green Park,0
+372,2,Safdarjung,5
+372,3,Chanakyapuri,10
+372,4,R K Puram,15
+372,5,Motibagh,20
+372,6,Dhaula Kuan,25
+372,7,Naraina,30
+372,8,Kirti Nagar,35
+372,9,Shadipur,40
+372,10,GTB Nagar,45
+381,1,Malviya Nagar,0
+381,2,Hauz Khas,5
+381,3,Green Park,10
+381,4,Safdarjung,15
+381,5,Race Course,20
+381,6,Patel Chowk,25
+381,7,Connaught Place,30
+381,8,New Delhi Railway Station,35
+381,9,Paharganj,40
+381,10,Keshav Puram,45
+395,1,Hauz Khas Village,0
+395,2,Green Park,5
+395,3,Safdarjung,10
+395,4,INA,15
+395,5,Lodhi Colony,20
+395,6,Jor Bagh,25
+395,7,Laxmibai Nagar,30
+395,8,Sarita Vihar,35
+395,9,Kalindi Kunj,40
+395,10,Pratap Nagar,45
+402,1,RK Puram,0
+402,2,Motibagh,5
+402,3,Dhaula Kuan,10
+402,4,Naraina,15
+402,5,Kirti Nagar,20
+402,6,Shadipur,25
+402,7,Patel Nagar,30
+402,8,Rajendra Place,35
+402,9,Karol Bagh,40
+402,10,Shalimar Bagh,45
+413,1,Munirka,0
+413,2,R K Puram,5
+413,3,Sarojini Nagar,10
+413,4,South Extension,15
+413,5,Lajpat Nagar,20
+413,6,Ashram,25
+413,7,Nizamuddin,30
+413,8,Mayur Vihar,35
+413,9,Preet Vihar,40
+413,10,Tri Nagar,45
+421,1,Vasant Kunj,0
+421,2,Munirka,5
+421,3,R K Puram,10
+421,4,Sarojini Nagar,15
+421,5,South Extension,20
+421,6,Lajpat Nagar,25
+421,7,Nehru Place,30
+421,8,Kalkaji,35
+421,9,Okhla,40
+421,10,Nangloi,45
+432,1,Mahipalpur,0
+432,2,IGI Airport,5
+432,3,Palam,10
+432,4,Dabri,15
+432,5,Janakpuri,20
+432,6,Uttam Nagar,25
+432,7,Najafgarh,30
+432,8,Nangloi,35
+432,9,Mundka,40
+432,10,Sultanpur Majra,45
+444,1,Mehrauli,0
+444,2,Qutub Minar,5
+444,3,Chhatarpur,10
+444,4,Mahipalpur,15
+444,5,IGI Airport,20
+444,6,Palam,25
+444,7,Dabri,30
+444,8,Janakpuri,35
+444,9,Uttam Nagar,40
+444,10,Begumpur,45
+451,1,Qutub Minar,0
+451,2,Chhatarpur,5
+451,3,Mahipalpur,10
+451,4,IGI Airport,15
+451,5,Palam,20
+451,6,Dabri,25
+451,7,Janakpuri,30
+451,8,Uttam Nagar,35
+451,9,Najafgarh,40
+451,10,Rithala,45
+462,1,Chhatarpur,0
+462,2,Mahipalpur,5
+462,3,IGI Airport,10
+462,4,Palam,15
+462,5,Dabri,20
+462,6,Janakpuri,25
+462,7,Uttam Nagar,30
+462,8,Najafgarh,35
+462,9,Nangloi,40
+462,10,Mundka,45
+471,1,Mehrauli Badarpur Road,0
+471,2,Badarpur,5
+471,3,Tuglakabad,10
+471,4,Sangam Vihar,15
+471,5,Khanpur,20
+471,6,Jamia Nagar,25
+471,7,Okhla,30
+471,8,Kalkaji,35
+471,9,Nehru Place,40
+471,10,Nangli Sakrawati,45
+483,1,Okhla,0
+483,2,Jamia Nagar,5
+483,3,Abul Fazal,10
+483,4,Batla House,15
+483,5,Shahdara,20
+483,6,Geeta Colony,25
+483,7,Shastri Park,30
+483,8,Seelampur,35
+483,9,Gandhi Nagar,40
+483,10,Ghevra,45
+492,1,Jamia Nagar,0
+492,2,Okhla,5
+492,3,Kalkaji,10
+492,4,Nehru Place,15
+492,5,South Extension,20
+492,6,Defence Colony,25
+492,7,Lajpat Nagar,30
+492,8,Ashram,35
+492,9,Nizamuddin,40
+492,10,Bindapur,45
+504,1,Kalkaji,0
+504,2,Nehru Place,5
+504,3,South Extension,10
+504,4,Defence Colony,15
+504,5,Lajpat Nagar,20
+504,6,Ashram,25
+504,7,Nizamuddin,30
+504,8,Mayur Vihar,35
+504,9,Preet Vihar,40
+504,10,Mohan Garden,45
+513,1,Govindpuri,0
+513,2,Harkesh Nagar,5
+513,3,Okhla,10
+513,4,Jamia Nagar,15
+513,5,Abul Fazal,20
+513,6,Batla House,25
+513,7,Shahdara,30
+513,8,Geeta Colony,35
+513,9,Shastri Park,40
+513,10,Uttam Nagar West,45
+521,1,Kalindi Kunj,0
+521,2,Jasola,5
+521,3,Okhla,10
+521,4,Jamia Nagar,15
+521,5,Abul Fazal,20
+521,6,Batla House,25
+521,7,Shahdara,30
+521,8,Geeta Colony,35
+521,9,Shastri Park,40
+521,10,Najafgarh,45
+532,1,Jasola Village,0
+532,2,Okhla,5
+532,3,Jamia Nagar,10
+532,4,Abul Fazal,15
+532,5,Batla House,20
+532,6,Shahdara,25
+532,7,Geeta Colony,30
+532,8,Shastri Park,35
+532,9,Seelampur,40
+532,10,Sultan Puri,45
+541,1,Shivalik,0
+541,2,Malviya Nagar,5
+541,3,Hauz Khas,10
+541,4,Green Park,15
+541,5,Safdarjung,20
+541,6,Chanakyapuri,25
+541,7,R K Puram,30
+541,8,Motibagh,35
+541,9,Dhaula Kuan,40
+541,10,Madhu Vihar,45
+553,1,Chirag Delhi,0
+553,2,Greater Kailash,5
+553,3,Alaknanda,10
+553,4,Sarita Vihar,15
+553,5,Kalindi Kunj,20
+553,6,Jasola,25
+553,7,Okhla,30
+553,8,Jamia Nagar,35
+553,9,Abul Fazal,40
+553,10,Sadar Bazar,45
+562,1,Andrews Ganj,0
+562,2,Defence Colony,5
+562,3,Lajpat Nagar,10
+562,4,Nehru Place,15
+562,5,Kalkaji,20
+562,6,Okhla,25
+562,7,Jamia Nagar,30
+562,8,Abul Fazal,35
+562,9,Batla House,40
+562,10,Kashmere Gate,45
+571,1,Defence Colony,0
+571,2,Lajpat Nagar,5
+571,3,Nehru Place,10
+571,4,Kalkaji,15
+571,5,Okhla,20
+571,6,Jamia Nagar,25
+571,7,Abul Fazal,30
+571,8,Batla House,35
+571,9,Shahdara,40
+571,10,Rajendra Nagar,45
+582,1,Bhikaji Cama Place,0
+582,2,R K Puram,5
+582,3,Motibagh,10
+582,4,Dhaula Kuan,15
+582,5,Naraina,20
+582,6,Kirti Nagar,25
+582,7,Shadipur,30
+582,8,Patel Nagar,35
+582,9,Rajendra Place,40
+582,10,Mori Gate,45
+591,1,Africa Avenue,0
+591,2,Defence Colony,5
+591,3,Lajpat Nagar,10
+591,4,Nehru Place,15
+591,5,Kalkaji,20
+591,6,Okhla,25
+591,7,Jamia Nagar,30
+591,8,Abul Fazal,35
+591,9,Batla House,40
+591,10,Wazirpur,45
+603,1,Nehru Stadium,0
+603,2,India Gate,5
+603,3,Connaught Place,10
+603,4,Patel Chowk,15
+603,5,Race Course,20
+603,6,Safdarjung,25
+603,7,Green Park,30
+603,8,Hauz Khas,35
+603,9,Malviya Nagar,40
+603,10,Shakur Basti,45
+614,1,Sirifort,0
+614,2,Defence Colony,5
+614,3,Lajpat Nagar,10
+614,4,Nehru Place,15
+614,5,Kalkaji,20
+614,6,Okhla,25
+614,7,Jamia Nagar,30
+614,8,Abul Fazal,35
+614,9,Batla House,40
+614,10,Karampura,45
+623,1,Batra Hospital,0
+623,2,Malviya Nagar,5
+623,3,Hauz Khas,10
+623,4,Green Park,15
+623,5,Safdarjung,20
+623,6,Chanakyapuri,25
+623,7,R K Puram,30
+623,8,Motibagh,35
+623,9,Dhaula Kuan,40
+623,10,Pratap Nagar,45
+634,1,Pushp Vihar,0
+634,2,Saket,5
+634,3,Malviya Nagar,10
+634,4,Hauz Khas,15
+634,5,Green Park,20
+634,6,Safdarjung,25
+634,7,Chanakyapuri,30
+634,8,R K Puram,35
+634,9,Motibagh,40
+634,10,Sarita Vihar,45
+645,1,Sainik Farm,0
+645,2,Chhatarpur,5
+645,3,Mahipalpur,10
+645,4,IGI Airport,15
+645,5,Palam,20
+645,6,Dabri,25
+645,7,Janakpuri,30
+645,8,Uttam Nagar,35
+645,9,Najafgarh,40
+645,10,Tughlakabad,45
+656,1,Sheikh Sarai,0
+656,2,Malviya Nagar,5
+656,3,Hauz Khas,10
+656,4,Green Park,15
+656,5,Safdarjung,20
+656,6,Chanakyapuri,25
+656,7,R K Puram,30
+656,8,Motibagh,35
+656,9,Dhaula Kuan,40
+656,10,Chandni Chowk,45
+667,1,Press Enclave,0
+667,2,Saket,5
+667,3,Malviya Nagar,10
+667,4,Hauz Khas,15
+667,5,Green Park,20
+667,6,Safdarjung,25
+667,7,Chanakyapuri,30
+667,8,R K Puram,35
+667,9,Motibagh,40
+667,10,ISBT,45
+678,1,M B Road,0
+678,2,Sainik Farm,5
+678,3,Chhatarpur,10
+678,4,Mahipalpur,15
+678,5,IGI Airport,20
+678,6,Palam,25
+678,7,Dabri,30
+678,8,Janakpuri,35
+678,9,Uttam Nagar,40
+678,10,Kirti Nagar,45
+689,1,Panchsheel Enclave,0
+689,2,Malviya Nagar,5
+689,3,Hauz Khas,10
+689,4,Green Park,15
+689,5,Safdarjung,20
+689,6,Chanakyapuri,25
+689,7,R K Puram,30
+689,8,Motibagh,35
+689,9,Dhaula Kuan,40
+689,10,Shadipur,45
+690,1,Siri Fort,0
+690,2,Defence Colony,5
+690,3,Lajpat Nagar,10
+690,4,Nehru Place,15
+690,5,Kalkaji,20
+690,6,Okhla,25
+690,7,Jamia Nagar,30
+690,8,Abul Fazal,35
+690,9,Batla House,40
+690,10,Patel Nagar,45
+701,1,Aurobindo Marg,0
+701,2,Green Park,5
+701,3,Safdarjung,10
+701,4,Chanakyapuri,15
+701,5,R K Puram,20
+701,6,Motibagh,25
+701,7,Dhaula Kuan,30
+701,8,Naraina,35
+701,9,Kirti Nagar,40
+701,10,Shadipur,45
+712,1,Adchini,0
+712,2,Malviya Nagar,5
+712,3,Hauz Khas,10
+712,4,Green Park,15
+712,5,Safdarjung,20
+712,6,Chanakyapuri,25
+712,7,R K Puram,30
+712,8,Motibagh,35
+712,9,Dhaula Kuan,40
+712,10,Ramesh Nagar,45
+723,1,Katwaria Sarai,0
+723,2,Malviya Nagar,5
+723,3,Hauz Khas,10
+723,4,Green Park,15
+723,5,Safdarjung,20
+723,6,Chanakyapuri,25
+723,7,R K Puram,30
+723,8,Motibagh,35
+723,9,Dhaula Kuan,40
+723,10,Subhash Nagar,45
+734,1,Ma Anandmayee Marg,0
+734,2,Malviya Nagar,5
+734,3,Hauz Khas,10
+734,4,Green Park,15
+734,5,Safdarjung,20
+734,6,Chanakyapuri,25
+734,7,R K Puram,30
+734,8,Motibagh,35
+734,9,Dhaula Kuan,40
+734,10,Tilak Nagar,45
+745,1,Rangpuri,0
+745,2,Mahipalpur,5
+745,3,IGI Airport,10
+745,4,Palam,15
+745,5,Dabri,20
+745,6,Janakpuri,25
+745,7,Uttam Nagar,30
+745,8,Najafgarh,35
+745,9,Nangloi,40
+745,10,Janakpuri,45
+756,1,Vasant Gaon,0
+756,2,Munirka,5
+756,3,R K Puram,10
+756,4,Sarojini Nagar,15
+756,5,South Extension,20
+756,6,Lajpat Nagar,25
+756,7,Nehru Place,30
+756,8,Kalkaji,35
+756,9,Okhla,40
+756,10,Uttam Nagar,45
+767,1,Rashtrapati Bhawan,0
+767,2,Safdarjung,5
+767,3,Green Park,10
+767,4,Hauz Khas,15
+767,5,Malviya Nagar,20
+767,6,Saket,25
+767,7,Mehrauli,30
+767,8,Qutub Minar,35
+767,9,Chhatarpur,40
+767,10,Vikaspuri,45
+778,1,Niti Marg,0
+778,2,Chanakyapuri,5
+778,3,Safdarjung,10
+778,4,Green Park,15
+778,5,Hauz Khas,20
+778,6,Malviya Nagar,25
+778,7,Saket,30
+778,8,Mehrauli,35
+778,9,Qutub Minar,40
+778,10,Nangloi,45
+789,1,Sardar Patel Marg,0
+789,2,Chanakyapuri,5
+789,3,Safdarjung,10
+789,4,Green Park,15
+789,5,Hauz Khas,20
+789,6,Malviya Nagar,25
+789,7,Saket,30
+789,8,Mehrauli,35
+789,9,Qutub Minar,40
+789,10,Sultanpur Majra,45
+790,1,Shanti Path,0
+790,2,Chanakyapuri,5
+790,3,Safdarjung,10
+790,4,Green Park,15
+790,5,Hauz Khas,20
+790,6,Malviya Nagar,25
+790,7,Saket,30
+790,8,Mehrauli,35
+790,9,Qutub Minar,40
+790,10,Gokulpuri,45
+bus_number,stop_order,stop_name,fare
+511,1,Najafgarh,0
+511,2,Najafgarh Chowk,5
+511,3,Uttam Nagar,10
+511,4,Janakpuri,15
+511,5,Tilak Nagar,20
+511,6,Subhash Nagar,25
+511,7,Ramesh Nagar,30
+511,8,Moti Nagar,35
+511,9,Naraina,40
+511,10,Delhi Cantt,45
+512,1,Najafgarh,0
+512,2,Najafgarh Chowk,5
+512,3,Uttam Nagar,10
+512,4,Janakpuri,15
+512,5,Tilak Nagar,20
+512,6,Subhash Nagar,25
+512,7,Ramesh Nagar,30
+512,8,Moti Nagar,35
+512,9,Karol Bagh,40
+512,10,Kashmere Gate,45
+513,1,Najafgarh,0
+513,2,Najafgarh Chowk,5
+513,3,Uttam Nagar,10
+513,4,Janakpuri,15
+513,5,Tilak Nagar,20
+513,6,Subhash Nagar,25
+513,7,Rajouri Garden,30
+513,8,Naraina,35
+513,9,Dhaula Kuan,40
+513,10,Connaught Place,45
+514,1,Najafgarh,0
+514,2,Najafgarh Chowk,5
+514,3,Uttam Nagar,10
+514,4,Janakpuri,15
+514,5,Tilak Nagar,20
+514,6,Subhash Nagar,25
+514,7,Rajouri Garden,30
+514,8,Naraina,35
+514,9,Dhaula Kuan,40
+514,10,Nehru Place,45
+515,1,Najafgarh,0
+515,2,Najafgarh Chowk,5
+515,3,Uttam Nagar,10
+515,4,Janakpuri,15
+515,5,Tilak Nagar,20
+515,6,Subhash Nagar,25
+515,7,Rajouri Garden,30
+515,8,Naraina,35
+515,9,Dhaula Kuan,40
+515,10,ISBT,45
+516,1,Najafgarh,0
+516,2,Najafgarh Chowk,5
+516,3,Uttam Nagar,10
+516,4,Janakpuri,15
+516,5,Tilak Nagar,20
+516,6,Subhash Nagar,25
+516,7,Rajouri Garden,30
+516,8,Naraina,35
+516,9,Dhaula Kuan,40
+516,10,Anand Vihar,45
+517,1,Najafgarh,0
+517,2,Najafgarh Chowk,5
+517,3,Uttam Nagar,10
+517,4,Janakpuri,15
+517,5,Tilak Nagar,20
+517,6,Subhash Nagar,25
+517,7,Rajouri Garden,30
+517,8,Punjabi Bagh,35
+517,9,Azadpur,40
+517,10,Rohini,45
+518,1,Najafgarh,0
+518,2,Najafgarh Chowk,5
+518,3,Uttam Nagar,10
+518,4,Janakpuri,15
+518,5,Tilak Nagar,20
+518,6,Subhash Nagar,25
+518,7,Rajouri Garden,30
+518,8,Punjabi Bagh,35
+518,9,Azadpur,40
+518,10,Dwarka,45
+519,1,Najafgarh,0
+519,2,Najafgarh Chowk,5
+519,3,Uttam Nagar,10
+519,4,Janakpuri,15
+519,5,Tilak Nagar,20
+519,6,Subhash Nagar,25
+519,7,Rajouri Garden,30
+519,8,Punjabi Bagh,35
+519,9,Shadipur,40
+519,10,Punjabi Bagh,45
+520,1,Najafgarh,0
+520,2,Najafgarh Chowk,5
+520,3,Uttam Nagar,10
+520,4,Janakpuri,15
+520,5,Tilak Nagar,20
+520,6,Subhash Nagar,25
+520,7,Rajouri Garden,30
+520,8,Naraina,35
+520,9,Dhaula Kuan,40
+520,10,Lajpat Nagar,45
+521,1,Kair,0
+521,2,Gurgaon Border,5
+521,3,IGI Airport,10
+521,4,Palam,15
+521,5,Dabri,20
+521,6,Janakpuri,25
+521,7,Tilak Nagar,30
+521,8,Subhash Nagar,35
+521,9,Rajouri Garden,40
+521,10,Gurgaon Bus Stand,45
+522,1,Kair,0
+522,2,Gurgaon Border,5
+522,3,IGI Airport,10
+522,4,Palam,15
+522,5,Dabri,20
+522,6,Janakpuri,25
+522,7,Tilak Nagar,30
+522,8,Subhash Nagar,35
+522,9,Rajouri Garden,40
+522,10,Rajiv Chowk,45
+523,1,Kair,0
+523,2,Gurgaon Border,5
+523,3,IGI Airport,10
+523,4,Palam,15
+523,5,Dabri,20
+523,6,Janakpuri,25
+523,7,Tilak Nagar,30
+523,8,Subhash Nagar,35
+523,9,Rajouri Garden,40
+523,10,IGI Airport,45
+524,1,Kair,0
+524,2,Gurgaon Border,5
+524,3,IGI Airport,10
+524,4,Palam,15
+524,5,Dabri,20
+524,6,Janakpuri,25
+524,7,Tilak Nagar,30
+524,8,Subhash Nagar,35
+524,9,Rajouri Garden,40
+524,10,Dwarka Sec-21,45
+525,1,Kair,0
+525,2,Gurgaon Border,5
+525,3,IGI Airport,10
+525,4,Palam,15
+525,5,Dabri,20
+525,6,Janakpuri,25
+525,7,Tilak Nagar,30
+525,8,Subhash Nagar,35
+525,9,Rajouri Garden,40
+525,10,Palam,45
+526,1,Kair,0
+526,2,Gurgaon Border,5
+526,3,IGI Airport,10
+526,4,Palam,15
+526,5,Dabri,20
+526,6,Janakpuri,25
+526,7,Tilak Nagar,30
+526,8,Subhash Nagar,35
+526,9,Rajouri Garden,40
+526,10,Janakpuri,45
+527,1,Kair,0
+527,2,Gurgaon Border,5
+527,3,IGI Airport,10
+527,4,Palam,15
+527,5,Dabri,20
+527,6,Janakpuri,25
+527,7,Tilak Nagar,30
+527,8,Subhash Nagar,35
+527,9,Rajouri Garden,40
+527,10,Uttam Nagar,45
+528,1,Kair,0
+528,2,Gurgaon Border,5
+528,3,IGI Airport,10
+528,4,Palam,15
+528,5,Dabri,20
+528,6,Janakpuri,25
+528,7,Tilak Nagar,30
+528,8,Subhash Nagar,35
+528,9,Rajouri Garden,40
+528,10,Najafgarh,45
+529,1,Kair,0
+529,2,Gurgaon Border,5
+529,3,IGI Airport,10
+529,4,Palam,15
+529,5,Dabri,20
+529,6,Janakpuri,25
+529,7,Tilak Nagar,30
+529,8,Subhash Nagar,35
+529,9,Rajouri Garden,40
+529,10,Mohan Garden,45
+530,1,Dichao Kalan,0
+530,2,Dichao Khurd,5
+530,3,Kair,10
+530,4,Gurgaon Border,15
+530,5,IGI Airport,20
+530,6,Palam,25
+530,7,Dabri,30
+530,8,Janakpuri,35
+530,9,Tilak Nagar,40
+530,10,Dwarka Sec-14,45
+531,1,Dichao Kalan,0
+531,2,Dichao Khurd,5
+531,3,Kair,10
+531,4,Gurgaon Border,15
+531,5,IGI Airport,20
+531,6,Palam,25
+531,7,Dabri,30
+531,8,Janakpuri,35
+531,9,Tilak Nagar,40
+531,10,Palam,45
+532,1,Dichao Kalan,0
+532,2,Dichao Khurd,5
+532,3,Kair,10
+532,4,Gurgaon Border,15
+532,5,IGI Airport,20
+532,6,Palam,25
+532,7,Dabri,30
+532,8,Janakpuri,35
+532,9,Tilak Nagar,40
+532,10,IGI Airport,45
+533,1,Dichao Kalan,0
+533,2,Dichao Khurd,5
+533,3,Kair,10
+533,4,Gurgaon Border,15
+533,5,IGI Airport,20
+533,6,Palam,25
+533,7,Dabri,30
+533,8,Janakpuri,35
+533,9,Tilak Nagar,40
+533,10,Janakpuri,45
+534,1,Dichao Kalan,0
+534,2,Dichao Khurd,5
+534,3,Kair,10
+534,4,Gurgaon Border,15
+534,5,IGI Airport,20
+534,6,Palam,25
+534,7,Dabri,30
+534,8,Janakpuri,35
+534,9,Tilak Nagar,40
+534,10,Uttam Nagar,45
+535,1,Dichao Kalan,0
+535,2,Dichao Khurd,5
+535,3,Kair,10
+535,4,Gurgaon Border,15
+535,5,IGI Airport,20
+535,6,Palam,25
+535,7,Dabri,30
+535,8,Janakpuri,35
+535,9,Tilak Nagar,40
+535,10,Najafgarh,45
+536,1,Dichao Kalan,0
+536,2,Dichao Khurd,5
+536,3,Kair,10
+536,4,Gurgaon Border,15
+536,5,IGI Airport,20
+536,6,Palam,25
+536,7,Dabri,30
+536,8,Janakpuri,35
+536,9,Tilak Nagar,40
+536,10,Kair,45
+537,1,Dichao Kalan,0
+537,2,Dichao Khurd,5
+537,3,Kair,10
+537,4,Gurgaon Border,15
+537,5,IGI Airport,20
+537,6,Palam,25
+537,7,Dabri,30
+537,8,Janakpuri,35
+537,9,Tilak Nagar,40
+537,10,Gurgaon,45
+538,1,Dichao Kalan,0
+538,2,Dichao Khurd,5
+538,3,Kair,10
+538,4,Gurgaon Border,15
+538,5,IGI Airport,20
+538,6,Palam,25
+538,7,Dabri,30
+538,8,Janakpuri,35
+538,9,Tilak Nagar,40
+538,10,Delhi Cantt,45
+539,1,Dichao Kalan,0
+539,2,Dichao Khurd,5
+539,3,Kair,10
+539,4,Gurgaon Border,15
+539,5,IGI Airport,20
+539,6,Palam,25
+539,7,Dabri,30
+539,8,Janakpuri,35
+539,9,Tilak Nagar,40
+539,10,Kashmere Gate,45
+540,1,Nangloi,0
+540,2,Nangloi JJ Colony,5
+540,3,Mundka,10
+540,4,Kirari,15
+540,5,Sultanpur Majra,20
+540,6,Begumpur,25
+540,7,Rohini Sec-18,30
+540,8,Pitampura,35
+540,9,Azadpur,40
+540,10,Najafgarh,45
+541,1,Nangloi,0
+541,2,Nangloi JJ Colony,5
+541,3,Mundka,10
+541,4,Kirari,15
+541,5,Sultanpur Majra,20
+541,6,Begumpur,25
+541,7,Rohini Sec-18,30
+541,8,Pitampura,35
+541,9,Azadpur,40
+541,10,Kair,45
+542,1,Nangloi,0
+542,2,Nangloi JJ Colony,5
+542,3,Mundka,10
+542,4,Kirari,15
+542,5,Sultanpur Majra,20
+542,6,Begumpur,25
+542,7,Rohini Sec-18,30
+542,8,Pitampura,35
+542,9,Azadpur,40
+542,10,Dichao Kalan,45
+543,1,Nangloi,0
+543,2,Nangloi JJ Colony,5
+543,3,Mundka,10
+543,4,Kirari,15
+543,5,Sultanpur Majra,20
+543,6,Begumpur,25
+543,7,Rohini Sec-18,30
+543,8,Pitampura,35
+543,9,Azadpur,40
+543,10,Punjabi Bagh,45
+544,1,Nangloi,0
+544,2,Nangloi JJ Colony,5
+544,3,Mundka,10
+544,4,Kirari,15
+544,5,Sultanpur Majra,20
+544,6,Begumpur,25
+544,7,Rohini Sec-18,30
+544,8,Pitampura,35
+544,9,Azadpur,40
+544,10,Rajouri Garden,45
+545,1,Nangloi,0
+545,2,Nangloi JJ Colony,5
+545,3,Mundka,10
+545,4,Kirari,15
+545,5,Sultanpur Majra,20
+545,6,Begumpur,25
+545,7,Rohini Sec-18,30
+545,8,Pitampura,35
+545,9,Azadpur,40
+545,10,Karol Bagh,45
+546,1,Nangloi,0
+546,2,Nangloi JJ Colony,5
+546,3,Mundka,10
+546,4,Kirari,15
+546,5,Sultanpur Majra,20
+546,6,Begumpur,25
+546,7,Rohini Sec-18,30
+546,8,Pitampura,35
+546,9,Azadpur,40
+546,10,Connaught Place,45
+547,1,Nangloi,0
+547,2,Nangloi JJ Colony,5
+547,3,Mundka,10
+547,4,Kirari,15
+547,5,Sultanpur Majra,20
+547,6,Begumpur,25
+547,7,Rohini Sec-18,30
+547,8,Pitampura,35
+547,9,Azadpur,40
+547,10,New Delhi Railway Station,45
+548,1,Nangloi,0
+548,2,Nangloi JJ Colony,5
+548,3,Mundka,10
+548,4,Kirari,15
+548,5,Sultanpur Majra,20
+548,6,Begumpur,25
+548,7,Rohini Sec-18,30
+548,8,Pitampura,35
+548,9,Azadpur,40
+548,10,ISBT,45
+549,1,Nangloi,0
+549,2,Nangloi JJ Colony,5
+549,3,Mundka,10
+549,4,Kirari,15
+549,5,Sultanpur Majra,20
+549,6,Begumpur,25
+549,7,Rohini Sec-18,30
+549,8,Pitampura,35
+549,9,Azadpur,40
+549,10,Red Fort,45
+550,1,Mundka,0
+550,2,Kirari,5
+550,3,Sultanpur Majra,10
+550,4,Begumpur,15
+550,5,Rohini Sec-18,20
+550,6,Pitampura,25
+550,7,Azadpur,30
+550,8,Kashmere Gate,35
+550,9,ISBT,40
+550,10,Najafgarh,45
+551,1,Mundka,0
+551,2,Kirari,5
+551,3,Sultanpur Majra,10
+551,4,Begumpur,15
+551,5,Rohini Sec-18,20
+551,6,Pitampura,25
+551,7,Azadpur,30
+551,8,Kashmere Gate,35
+551,9,ISBT,40
+551,10,Nangloi,45
+552,1,Mundka,0
+552,2,Kirari,5
+552,3,Sultanpur Majra,10
+552,4,Begumpur,15
+552,5,Rohini Sec-18,20
+552,6,Pitampura,25
+552,7,Azadpur,30
+552,8,Kashmere Gate,35
+552,9,ISBT,40
+552,10,Punjabi Bagh,45
+553,1,Mundka,0
+553,2,Kirari,5
+553,3,Sultanpur Majra,10
+553,4,Begumpur,15
+553,5,Rohini Sec-18,20
+553,6,Pitampura,25
+553,7,Azadpur,30
+553,8,Kashmere Gate,35
+553,9,ISBT,40
+553,10,Rohini,45
+554,1,Mundka,0
+554,2,Kirari,5
+554,3,Sultanpur Majra,10
+554,4,Begumpur,15
+554,5,Rohini Sec-18,20
+554,6,Pitampura,25
+554,7,Azadpur,30
+554,8,Kashmere Gate,35
+554,9,ISBT,40
+554,10,GTB Nagar,45
+555,1,Mundka,0
+555,2,Kirari,5
+555,3,Sultanpur Majra,10
+555,4,Begumpur,15
+555,5,Rohini Sec-18,20
+555,6,Pitampura,25
+555,7,Azadpur,30
+555,8,Kashmere Gate,35
+555,9,ISBT,40
+555,10,Kashmere Gate,45
+556,1,Mundka,0
+556,2,Kirari,5
+556,3,Sultanpur Majra,10
+556,4,Begumpur,15
+556,5,Rohini Sec-18,20
+556,6,Pitampura,25
+556,7,Azadpur,30
+556,8,Kashmere Gate,35
+556,9,ISBT,40
+556,10,ISBT,45
+557,1,Mundka,0
+557,2,Kirari,5
+557,3,Sultanpur Majra,10
+557,4,Begumpur,15
+557,5,Rohini Sec-18,20
+557,6,Pitampura,25
+557,7,Azadpur,30
+557,8,Kashmere Gate,35
+557,9,ISBT,40
+557,10,Anand Vihar,45
+558,1,Mundka,0
+558,2,Kirari,5
+558,3,Sultanpur Majra,10
+558,4,Begumpur,15
+558,5,Rohini Sec-18,20
+558,6,Pitampura,25
+558,7,Azadpur,30
+558,8,Kashmere Gate,35
+558,9,ISBT,40
+558,10,Seelampur,45
+559,1,Mundka,0
+559,2,Kirari,5
+559,3,Sultanpur Majra,10
+559,4,Begumpur,15
+559,5,Rohini Sec-18,20
+559,6,Pitampura,25
+559,7,Azadpur,30
+559,8,Kashmere Gate,35
+559,9,ISBT,40
+559,10,Dilshad Garden,45
+560,1,Bawana,0
+560,2,Narela Industrial Area,5
+560,3,Narela,10
+560,4,Alipur,15
+560,5,Burari,20
+560,6,Timarpur,25
+560,7,Civil Lines,30
+560,8,Kashmere Gate,35
+560,9,ISBT,40
+560,10,Narela,45
+561,1,Bawana,0
+561,2,Narela Industrial Area,5
+561,3,Narela,10
+561,4,Alipur,15
+561,5,Burari,20
+561,6,Timarpur,25
+561,7,Civil Lines,30
+561,8,Kashmere Gate,35
+561,9,ISBT,40
+561,10,Rohini,45
+562,1,Bawana,0
+562,2,Narela Industrial Area,5
+562,3,Narela,10
+562,4,Alipur,15
+562,5,Burari,20
+562,6,Timarpur,25
+562,7,Civil Lines,30
+562,8,Kashmere Gate,35
+562,9,ISBT,40
+562,10,Pitampura,45
+563,1,Bawana,0
+563,2,Narela Industrial Area,5
+563,3,Narela,10
+563,4,Alipur,15
+563,5,Burari,20
+563,6,Timarpur,25
+563,7,Civil Lines,30
+563,8,Kashmere Gate,35
+563,9,ISBT,40
+563,10,Azadpur,45
+564,1,Bawana,0
+564,2,Narela Industrial Area,5
+564,3,Narela,10
+564,4,Alipur,15
+564,5,Burari,20
+564,6,Timarpur,25
+564,7,Civil Lines,30
+564,8,Kashmere Gate,35
+564,9,ISBT,40
+564,10,Kashmere Gate,45
+565,1,Bawana,0
+565,2,Narela Industrial Area,5
+565,3,Narela,10
+565,4,Alipur,15
+565,5,Burari,20
+565,6,Timarpur,25
+565,7,Civil Lines,30
+565,8,Kashmere Gate,35
+565,9,ISBT,40
+565,10,Red Fort,45
+566,1,Bawana,0
+566,2,Narela Industrial Area,5
+566,3,Narela,10
+566,4,Alipur,15
+566,5,Burari,20
+566,6,Timarpur,25
+566,7,Civil Lines,30
+566,8,Kashmere Gate,35
+566,9,ISBT,40
+566,10,Connaught Place,45
+567,1,Bawana,0
+567,2,Narela Industrial Area,5
+567,3,Narela,10
+567,4,Alipur,15
+567,5,Burari,20
+567,6,Timarpur,25
+567,7,Civil Lines,30
+567,8,Kashmere Gate,35
+567,9,ISBT,40
+567,10,New Delhi Railway Station,45
+568,1,Bawana,0
+568,2,Narela Industrial Area,5
+568,3,Narela,10
+568,4,Alipur,15
+568,5,Burari,20
+568,6,Timarpur,25
+568,7,Civil Lines,30
+568,8,Kashmere Gate,35
+568,9,ISBT,40
+568,10,ISBT,45
+569,1,Bawana,0
+569,2,Narela Industrial Area,5
+569,3,Narela,10
+569,4,Alipur,15
+569,5,Burari,20
+569,6,Timarpur,25
+569,7,Civil Lines,30
+569,8,Kashmere Gate,35
+569,9,ISBT,40
+569,10,Anand Vihar,45
+570,1,Narela,0
+570,2,Alipur,5
+570,3,Burari,10
+570,4,Timarpur,15
+570,5,Civil Lines,20
+570,6,Kashmere Gate,25
+570,7,ISBT,30
+570,8,Red Fort,35
+570,9,Chandni Chowk,40
+570,10,Burari,45
+571,1,Narela,0
+571,2,Alipur,5
+571,3,Burari,10
+571,4,Timarpur,15
+571,5,Civil Lines,20
+571,6,Kashmere Gate,25
+571,7,ISBT,30
+571,8,Red Fort,35
+571,9,Chandni Chowk,40
+571,10,Alipur,45
+572,1,Narela,0
+572,2,Alipur,5
+572,3,Burari,10
+572,4,Timarpur,15
+572,5,Civil Lines,20
+572,6,Kashmere Gate,25
+572,7,ISBT,30
+572,8,Red Fort,35
+572,9,Chandni Chowk,40
+572,10,Kashmere Gate,45
+573,1,Narela,0
+573,2,Alipur,5
+573,3,Burari,10
+573,4,Timarpur,15
+573,5,Civil Lines,20
+573,6,Kashmere Gate,25
+573,7,ISBT,30
+573,8,Red Fort,35
+573,9,Chandni Chowk,40
+573,10,ISBT,45
+574,1,Narela,0
+574,2,Alipur,5
+574,3,Burari,10
+574,4,Timarpur,15
+574,5,Civil Lines,20
+574,6,Kashmere Gate,25
+574,7,ISBT,30
+574,8,Red Fort,35
+574,9,Chandni Chowk,40
+574,10,Red Fort,45
+575,1,Narela,0
+575,2,Alipur,5
+575,3,Burari,10
+575,4,Timarpur,15
+575,5,Civil Lines,20
+575,6,Kashmere Gate,25
+575,7,ISBT,30
+575,8,Red Fort,35
+575,9,Chandni Chowk,40
+575,10,Chandni Chowk,45
+576,1,Narela,0
+576,2,Alipur,5
+576,3,Burari,10
+576,4,Timarpur,15
+576,5,Civil Lines,20
+576,6,Kashmere Gate,25
+576,7,ISBT,30
+576,8,Red Fort,35
+576,9,Chandni Chowk,40
+576,10,Connaught Place,45
+577,1,Narela,0
+577,2,Alipur,5
+577,3,Burari,10
+577,4,Timarpur,15
+577,5,Civil Lines,20
+577,6,Kashmere Gate,25
+577,7,ISBT,30
+577,8,Red Fort,35
+577,9,Chandni Chowk,40
+577,10,New Delhi Railway Station,45
+578,1,Narela,0
+578,2,Alipur,5
+578,3,Burari,10
+578,4,Timarpur,15
+578,5,Civil Lines,20
+578,6,Kashmere Gate,25
+578,7,ISBT,30
+578,8,Red Fort,35
+578,9,Chandni Chowk,40
+578,10,Pragati Maidan,45
+579,1,Narela,0
+579,2,Alipur,5
+579,3,Burari,10
+579,4,Timarpur,15
+579,5,Civil Lines,20
+579,6,Kashmere Gate,25
+579,7,ISBT,30
+579,8,Red Fort,35
+579,9,Chandni Chowk,40
+579,10,Ashram,45
+580,1,Alipur,0
+580,2,Narela,5
+580,3,Burari,10
+580,4,Timarpur,15
+580,5,Civil Lines,20
+580,6,Kashmere Gate,25
+580,7,ISBT,30
+580,8,Red Fort,35
+580,9,Chandni Chowk,40
+580,10,Burari,45
+581,1,Alipur,0
+581,2,Narela,5
+581,3,Burari,10
+581,4,Timarpur,15
+581,5,Civil Lines,20
+581,6,Kashmere Gate,25
+581,7,ISBT,30
+581,8,Red Fort,35
+581,9,Chandni Chowk,40
+581,10,Narela,45
+582,1,Alipur,0
+582,2,Narela,5
+582,3,Burari,10
+582,4,Timarpur,15
+582,5,Civil Lines,20
+582,6,Kashmere Gate,25
+582,7,ISBT,30
+582,8,Red Fort,35
+582,9,Chandni Chowk,40
+582,10,Kashmere Gate,45
+583,1,Alipur,0
+583,2,Narela,5
+583,3,Burari,10
+583,4,Timarpur,15
+583,5,Civil Lines,20
+583,6,Kashmere Gate,25
+583,7,ISBT,30
+583,8,Red Fort,35
+583,9,Chandni Chowk,40
+583,10,ISBT,45
+584,1,Alipur,0
+584,2,Narela,5
+584,3,Burari,10
+584,4,Timarpur,15
+584,5,Civil Lines,20
+584,6,Kashmere Gate,25
+584,7,ISBT,30
+584,8,Red Fort,35
+584,9,Chandni Chowk,40
+584,10,Red Fort,45
+585,1,Alipur,0
+585,2,Narela,5
+585,3,Burari,10
+585,4,Timarpur,15
+585,5,Civil Lines,20
+585,6,Kashmere Gate,25
+585,7,ISBT,30
+585,8,Red Fort,35
+585,9,Chandni Chowk,40
+585,10,Chandni Chowk,45
+586,1,Alipur,0
+586,2,Narela,5
+586,3,Burari,10
+586,4,Timarpur,15
+586,5,Civil Lines,20
+586,6,Kashmere Gate,25
+586,7,ISBT,30
+586,8,Red Fort,35
+586,9,Chandni Chowk,40
+586,10,Connaught Place,45
+587,1,Alipur,0
+587,2,Narela,5
+587,3,Burari,10
+587,4,Timarpur,15
+587,5,Civil Lines,20
+587,6,Kashmere Gate,25
+587,7,ISBT,30
+587,8,Red Fort,35
+587,9,Chandni Chowk,40
+587,10,New Delhi Railway Station,45
+588,1,Alipur,0
+588,2,Narela,5
+588,3,Burari,10
+588,4,Timarpur,15
+588,5,Civil Lines,20
+588,6,Kashmere Gate,25
+588,7,ISBT,30
+588,8,Red Fort,35
+588,9,Chandni Chowk,40
+588,10,Pragati Maidan,45
+589,1,Alipur,0
+589,2,Narela,5
+589,3,Burari,10
+589,4,Timarpur,15
+589,5,Civil Lines,20
+589,6,Kashmere Gate,25
+589,7,ISBT,30
+589,8,Red Fort,35
+589,9,Chandni Chowk,40
+589,10,Ashram,45
+590,1,Burari,0
+590,2,Timarpur,5
+590,3,Civil Lines,10
+590,4,Kashmere Gate,15
+590,5,ISBT,20
+590,6,Red Fort,25
+590,7,Chandni Chowk,30
+590,8,Connaught Place,35
+590,9,New Delhi Railway Station,40
+590,10,Timarpur,45
+591,1,Burari,0
+591,2,Timarpur,5
+591,3,Civil Lines,10
+591,4,Kashmere Gate,15
+591,5,ISBT,20
+591,6,Red Fort,25
+591,7,Chandni Chowk,30
+591,8,Connaught Place,35
+591,9,New Delhi Railway Station,40
+591,10,Civil Lines,45
+592,1,Burari,0
+592,2,Timarpur,5
+592,3,Civil Lines,10
+592,4,Kashmere Gate,15
+592,5,ISBT,20
+592,6,Red Fort,25
+592,7,Chandni Chowk,30
+592,8,Connaught Place,35
+592,9,New Delhi Railway Station,40
+592,10,Kashmere Gate,45
+593,1,Burari,0
+593,2,Timarpur,5
+593,3,Civil Lines,10
+593,4,Kashmere Gate,15
+593,5,ISBT,20
+593,6,Red Fort,25
+593,7,Chandni Chowk,30
+593,8,Connaught Place,35
+593,9,New Delhi Railway Station,40
+593,10,ISBT,45
+594,1,Burari,0
+594,2,Timarpur,5
+594,3,Civil Lines,10
+594,4,Kashmere Gate,15
+594,5,ISBT,20
+594,6,Red Fort,25
+594,7,Chandni Chowk,30
+594,8,Connaught Place,35
+594,9,New Delhi Railway Station,40
+594,10,Red Fort,45
+595,1,Burari,0
+595,2,Timarpur,5
+595,3,Civil Lines,10
+595,4,Kashmere Gate,15
+595,5,ISBT,20
+595,6,Red Fort,25
+595,7,Chandni Chowk,30
+595,8,Connaught Place,35
+595,9,New Delhi Railway Station,40
+595,10,Chandni Chowk,45
+596,1,Burari,0
+596,2,Timarpur,5
+596,3,Civil Lines,10
+596,4,Kashmere Gate,15
+596,5,ISBT,20
+596,6,Red Fort,25
+596,7,Chandni Chowk,30
+596,8,Connaught Place,35
+596,9,New Delhi Railway Station,40
+596,10,Connaught Place,45
+597,1,Burari,0
+597,2,Timarpur,5
+597,3,Civil Lines,10
+597,4,Kashmere Gate,15
+597,5,ISBT,20
+597,6,Red Fort,25
+597,7,Chandni Chowk,30
+597,8,Connaught Place,35
+597,9,New Delhi Railway Station,40
+597,10,New Delhi Railway Station,45
+598,1,Burari,0
+598,2,Timarpur,5
+598,3,Civil Lines,10
+598,4,Kashmere Gate,15
+598,5,ISBT,20
+598,6,Red Fort,25
+598,7,Chandni Chowk,30
+598,8,Connaught Place,35
+598,9,New Delhi Railway Station,40
+598,10,Pragati Maidan,45
+599,1,Burari,0
+599,2,Timarpur,5
+599,3,Civil Lines,10
+599,4,Kashmere Gate,15
+599,5,ISBT,20
+599,6,Red Fort,25
+599,7,Chandni Chowk,30
+599,8,Connaught Place,35
+599,9,New Delhi Railway Station,40
+599,10,Ashram,45
+600,1,Samaypur Badli,0
+600,2,Rohini Sec-1,5
+600,3,Rohini Sec-3,10
+600,4,Rohini Sec-7,15
+600,5,Rohini Sec-11,20
+600,6,Rohini Sec-14,25
+600,7,Rohini Sec-16,30
+600,8,Rohini Sec-18,35
+600,9,Pitampura,40
+600,10,Rohini,45
+601,1,Samaypur Badli,0
+601,2,Rohini Sec-1,5
+601,3,Rohini Sec-3,10
+601,4,Rohini Sec-7,15
+601,5,Rohini Sec-11,20
+601,6,Rohini Sec-14,25
+601,7,Rohini Sec-16,30
+601,8,Rohini Sec-18,35
+601,9,Pitampura,40
+601,10,Pitampura,45
+602,1,Samaypur Badli,0
+602,2,Rohini Sec-1,5
+602,3,Rohini Sec-3,10
+602,4,Rohini Sec-7,15
+602,5,Rohini Sec-11,20
+602,6,Rohini Sec-14,25
+602,7,Rohini Sec-16,30
+602,8,Rohini Sec-18,35
+602,9,Pitampura,40
+602,10,Azadpur,45
+603,1,Samaypur Badli,0
+603,2,Rohini Sec-1,5
+603,3,Rohini Sec-3,10
+603,4,Rohini Sec-7,15
+603,5,Rohini Sec-11,20
+603,6,Rohini Sec-14,25
+603,7,Rohini Sec-16,30
+603,8,Rohini Sec-18,35
+603,9,Pitampura,40
+603,10,Kashmere Gate,45
+604,1,Samaypur Badli,0
+604,2,Rohini Sec-1,5
+604,3,Rohini Sec-3,10
+604,4,Rohini Sec-7,15
+604,5,Rohini Sec-11,20
+604,6,Rohini Sec-14,25
+604,7,Rohini Sec-16,30
+604,8,Rohini Sec-18,35
+604,9,Pitampura,40
+604,10,ISBT,45
+605,1,Samaypur Badli,0
+605,2,Rohini Sec-1,5
+605,3,Rohini Sec-3,10
+605,4,Rohini Sec-7,15
+605,5,Rohini Sec-11,20
+605,6,Rohini Sec-14,25
+605,7,Rohini Sec-16,30
+605,8,Rohini Sec-18,35
+605,9,Pitampura,40
+605,10,Red Fort,45
+606,1,Samaypur Badli,0
+606,2,Rohini Sec-1,5
+606,3,Rohini Sec-3,10
+606,4,Rohini Sec-7,15
+606,5,Rohini Sec-11,20
+606,6,Rohini Sec-14,25
+606,7,Rohini Sec-16,30
+606,8,Rohini Sec-18,35
+606,9,Pitampura,40
+606,10,Chandni Chowk,45
+607,1,Samaypur Badli,0
+607,2,Rohini Sec-1,5
+607,3,Rohini Sec-3,10
+607,4,Rohini Sec-7,15
+607,5,Rohini Sec-11,20
+607,6,Rohini Sec-14,25
+607,7,Rohini Sec-16,30
+607,8,Rohini Sec-18,35
+607,9,Pitampura,40
+607,10,Connaught Place,45
+608,1,Samaypur Badli,0
+608,2,Rohini Sec-1,5
+608,3,Rohini Sec-3,10
+608,4,Rohini Sec-7,15
+608,5,Rohini Sec-11,20
+608,6,Rohini Sec-14,25
+608,7,Rohini Sec-16,30
+608,8,Rohini Sec-18,35
+608,9,Pitampura,40
+608,10,New Delhi Railway Station,45
+609,1,Samaypur Badli,0
+609,2,Rohini Sec-1,5
+609,3,Rohini Sec-3,10
+609,4,Rohini Sec-7,15
+609,5,Rohini Sec-11,20
+609,6,Rohini Sec-14,25
+609,7,Rohini Sec-16,30
+609,8,Rohini Sec-18,35
+609,9,Pitampura,40
+609,10,Pragati Maidan,45
+610,1,Rithala,0
+610,2,Rohini Sec-1,5
+610,3,Rohini Sec-3,10
+610,4,Rohini Sec-7,15
+610,5,Rohini Sec-11,20
+610,6,Rohini Sec-14,25
+610,7,Rohini Sec-16,30
+610,8,Rohini Sec-18,35
+610,9,Pitampura,40
+610,10,Rohini Sec-18,45
+611,1,Rithala,0
+611,2,Rohini Sec-1,5
+611,3,Rohini Sec-3,10
+611,4,Rohini Sec-7,15
+611,5,Rohini Sec-11,20
+611,6,Rohini Sec-14,25
+611,7,Rohini Sec-16,30
+611,8,Rohini Sec-18,35
+611,9,Pitampura,40
+611,10,Netaji Subhash Place,45
+612,1,Rithala,0
+612,2,Rohini Sec-1,5
+612,3,Rohini Sec-3,10
+612,4,Rohini Sec-7,15
+612,5,Rohini Sec-11,20
+612,6,Rohini Sec-14,25
+612,7,Rohini Sec-16,30
+612,8,Rohini Sec-18,35
+612,9,Pitampura,40
+612,10,Pitampura,45
+613,1,Rithala,0
+613,2,Rohini Sec-1,5
+613,3,Rohini Sec-3,10
+613,4,Rohini Sec-7,15
+613,5,Rohini Sec-11,20
+613,6,Rohini Sec-14,25
+613,7,Rohini Sec-16,30
+613,8,Rohini Sec-18,35
+613,9,Pitampura,40
+613,10,Azadpur,45
+614,1,Rithala,0
+614,2,Rohini Sec-1,5
+614,3,Rohini Sec-3,10
+614,4,Rohini Sec-7,15
+614,5,Rohini Sec-11,20
+614,6,Rohini Sec-14,25
+614,7,Rohini Sec-16,30
+614,8,Rohini Sec-18,35
+614,9,Pitampura,40
+614,10,Kashmere Gate,45
+615,1,Rithala,0
+615,2,Rohini Sec-1,5
+615,3,Rohini Sec-3,10
+615,4,Rohini Sec-7,15
+615,5,Rohini Sec-11,20
+615,6,Rohini Sec-14,25
+615,7,Rohini Sec-16,30
+615,8,Rohini Sec-18,35
+615,9,Pitampura,40
+615,10,ISBT,45
+616,1,Rithala,0
+616,2,Rohini Sec-1,5
+616,3,Rohini Sec-3,10
+616,4,Rohini Sec-7,15
+616,5,Rohini Sec-11,20
+616,6,Rohini Sec-14,25
+616,7,Rohini Sec-16,30
+616,8,Rohini Sec-18,35
+616,9,Pitampura,40
+616,10,Red Fort,45
+617,1,Rithala,0
+617,2,Rohini Sec-1,5
+617,3,Rohini Sec-3,10
+617,4,Rohini Sec-7,15
+617,5,Rohini Sec-11,20
+617,6,Rohini Sec-14,25
+617,7,Rohini Sec-16,30
+617,8,Rohini Sec-18,35
+617,9,Pitampura,40
+617,10,Chandni Chowk,45
+618,1,Rithala,0
+618,2,Rohini Sec-1,5
+618,3,Rohini Sec-3,10
+618,4,Rohini Sec-7,15
+618,5,Rohini Sec-11,20
+618,6,Rohini Sec-14,25
+618,7,Rohini Sec-16,30
+618,8,Rohini Sec-18,35
+618,9,Pitampura,40
+618,10,Connaught Place,45
+619,1,Rithala,0
+619,2,Rohini Sec-1,5
+619,3,Rohini Sec-3,10
+619,4,Rohini Sec-7,15
+619,5,Rohini Sec-11,20
+619,6,Rohini Sec-14,25
+619,7,Rohini Sec-16,30
+619,8,Rohini Sec-18,35
+619,9,Pitampura,40
+619,10,New Delhi Railway Station,45
+620,1,Rohini Sec-1,0
+620,2,Rohini Sec-2,5
+620,3,Rohini Sec-3,10
+620,4,Rohini Sec-4,15
+620,5,Rohini Sec-5,20
+620,6,Rohini Sec-6,25
+620,7,Rohini Sec-7,30
+620,8,Rohini Sec-8,35
+620,9,Rohini Sec-9,40
+620,10,Sec-3,45
+621,1,Rohini Sec-3,0
+621,2,Rohini Sec-4,5
+621,3,Rohini Sec-5,10
+621,4,Rohini Sec-6,15
+621,5,Rohini Sec-7,20
+621,6,Rohini Sec-8,25
+621,7,Rohini Sec-9,30
+621,8,Rohini Sec-10,35
+621,9,Rohini Sec-11,40
+621,10,Sec-7,45
+622,1,Rohini Sec-7,0
+622,2,Rohini Sec-8,5
+622,3,Rohini Sec-9,10
+622,4,Rohini Sec-10,15
+622,5,Rohini Sec-11,20
+622,6,Rohini Sec-12,25
+622,7,Rohini Sec-13,30
+622,8,Rohini Sec-14,35
+622,9,Rohini Sec-15,40
+622,10,Sec-11,45
+623,1,Rohini Sec-11,0
+623,2,Rohini Sec-12,5
+623,3,Rohini Sec-13,10
+623,4,Rohini Sec-14,15
+623,5,Rohini Sec-15,20
+623,6,Rohini Sec-16,25
+623,7,Rohini Sec-17,30
+623,8,Rohini Sec-18,35
+623,9,Rohini Sec-19,40
+623,10,Sec-14,45
+624,1,Rohini Sec-14,0
+624,2,Rohini Sec-15,5
+624,3,Rohini Sec-16,10
+624,4,Rohini Sec-17,15
+624,5,Rohini Sec-18,20
+624,6,Rohini Sec-19,25
+624,7,Rohini Sec-20,30
+624,8,Rohini Sec-21,35
+624,9,Rohini Sec-22,40
+624,10,Sec-16,45
+625,1,Rohini Sec-16,0
+625,2,Rohini Sec-17,5
+625,3,Rohini Sec-18,10
+625,4,Rohini Sec-19,15
+625,5,Rohini Sec-20,20
+625,6,Rohini Sec-21,25
+625,7,Rohini Sec-22,30
+625,8,Rohini Sec-23,35
+625,9,Rohini Sec-24,40
+625,10,Sec-18,45
+626,1,Rohini Sec-18,0
+626,2,Rohini Sec-19,5
+626,3,Rohini Sec-20,10
+626,4,Rohini Sec-21,15
+626,5,Rohini Sec-22,20
+626,6,Rohini Sec-23,25
+626,7,Rohini Sec-24,30
+626,8,Rohini Sec-25,35
+626,9,Rohini Sec-26,40
+626,10,Pitampura,45
+627,1,Rohini Sec-1,0
+627,2,Rohini Sec-2,5
+627,3,Rohini Sec-3,10
+627,4,Rohini Sec-4,15
+627,5,Rohini Sec-5,20
+627,6,Rohini Sec-6,25
+627,7,Rohini Sec-7,30
+627,8,Rohini Sec-8,35
+627,9,Rohini Sec-9,40
+627,10,Azadpur,45
+628,1,Rohini Sec-3,0
+628,2,Rohini Sec-4,5
+628,3,Rohini Sec-5,10
+628,4,Rohini Sec-6,15
+628,5,Rohini Sec-7,20
+628,6,Rohini Sec-8,25
+628,7,Rohini Sec-9,30
+628,8,Rohini Sec-10,35
+628,9,Rohini Sec-11,40
+628,10,Kashmere Gate,45
+629,1,Rohini Sec-7,0
+629,2,Rohini Sec-8,5
+629,3,Rohini Sec-9,10
+629,4,Rohini Sec-10,15
+629,5,Rohini Sec-11,20
+629,6,Rohini Sec-12,25
+629,7,Rohini Sec-13,30
+629,8,Rohini Sec-14,35
+629,9,Rohini Sec-15,40
+629,10,ISBT,45
+630,1,Pitampura,0
+630,2,Netaji Subhash Place,5
+630,3,Rohini Sec-1,10
+630,4,Rohini Sec-3,15
+630,5,Rohini Sec-5,20
+630,6,Rohini Sec-7,25
+630,7,Rohini Sec-9,30
+630,8,Rohini Sec-11,35
+630,9,Rohini Sec-13,40
+630,10,Netaji Subhash Place,45
+631,1,Pitampura,0
+631,2,Netaji Subhash Place,5
+631,3,Rohini Sec-1,10
+631,4,Rohini Sec-2,15
+631,5,Rohini Sec-3,20
+631,6,Rohini Sec-4,25
+631,7,Rohini Sec-5,30
+631,8,Rohini Sec-6,35
+631,9,Rohini Sec-7,40
+631,10,Rohini Sec-1,45
+632,1,Pitampura,0
+632,2,Netaji Subhash Place,5
+632,3,Rohini Sec-1,10
+632,4,Rohini Sec-2,15
+632,5,Rohini Sec-3,20
+632,6,Rohini Sec-4,25
+632,7,Rohini Sec-5,30
+632,8,Rohini Sec-6,35
+632,9,Rohini Sec-7,40
+632,10,Rohini Sec-3,45
+633,1,Pitampura,0
+633,2,Netaji Subhash Place,5
+633,3,Rohini Sec-1,10
+633,4,Rohini Sec-2,15
+633,5,Rohini Sec-3,20
+633,6,Rohini Sec-4,25
+633,7,Rohini Sec-5,30
+633,8,Rohini Sec-6,35
+633,9,Rohini Sec-7,40
+633,10,Rohini Sec-7,45
+634,1,Pitampura,0
+634,2,Netaji Subhash Place,5
+634,3,Rohini Sec-1,10
+634,4,Rohini Sec-2,15
+634,5,Rohini Sec-3,20
+634,6,Rohini Sec-4,25
+634,7,Rohini Sec-5,30
+634,8,Rohini Sec-6,35
+634,9,Rohini Sec-7,40
+634,10,Rohini Sec-11,45
+635,1,Pitampura,0
+635,2,Netaji Subhash Place,5
+635,3,Rohini Sec-1,10
+635,4,Rohini Sec-2,15
+635,5,Rohini Sec-3,20
+635,6,Rohini Sec-4,25
+635,7,Rohini Sec-5,30
+635,8,Rohini Sec-6,35
+635,9,Rohini Sec-7,40
+635,10,Rohini Sec-14,45
+636,1,Pitampura,0
+636,2,Netaji Subhash Place,5
+636,3,Rohini Sec-1,10
+636,4,Rohini Sec-2,15
+636,5,Rohini Sec-3,20
+636,6,Rohini Sec-4,25
+636,7,Rohini Sec-5,30
+636,8,Rohini Sec-6,35
+636,9,Rohini Sec-7,40
+636,10,Rohini Sec-16,45
+637,1,Pitampura,0
+637,2,Netaji Subhash Place,5
+637,3,Rohini Sec-1,10
+637,4,Rohini Sec-2,15
+637,5,Rohini Sec-3,20
+637,6,Rohini Sec-4,25
+637,7,Rohini Sec-5,30
+637,8,Rohini Sec-6,35
+637,9,Rohini Sec-7,40
+637,10,Rohini Sec-18,45
+638,1,Pitampura,0
+638,2,Netaji Subhash Place,5
+638,3,Rohini Sec-1,10
+638,4,Rohini Sec-2,15
+638,5,Rohini Sec-3,20
+638,6,Rohini Sec-4,25
+638,7,Rohini Sec-5,30
+638,8,Rohini Sec-6,35
+638,9,Rohini Sec-7,40
+638,10,Azadpur,45
+639,1,Pitampura,0
+639,2,Netaji Subhash Place,5
+639,3,Rohini Sec-1,10
+639,4,Rohini Sec-2,15
+639,5,Rohini Sec-3,20
+639,6,Rohini Sec-4,25
+639,7,Rohini Sec-5,30
+639,8,Rohini Sec-6,35
+639,9,Rohini Sec-7,40
+639,10,Kashmere Gate,45
+640,1,Netaji Subhash Place,0
+640,2,Rohini Sec-1,5
+640,3,Rohini Sec-2,10
+640,4,Rohini Sec-3,15
+640,5,Rohini Sec-4,20
+640,6,Rohini Sec-5,25
+640,7,Rohini Sec-6,30
+640,8,Rohini Sec-7,35
+640,9,Rohini Sec-8,40
+640,10,Rohini Sec-1,45
+641,1,Netaji Subhash Place,0
+641,2,Rohini Sec-1,5
+641,3,Rohini Sec-2,10
+641,4,Rohini Sec-3,15
+641,5,Rohini Sec-4,20
+641,6,Rohini Sec-5,25
+641,7,Rohini Sec-6,30
+641,8,Rohini Sec-7,35
+641,9,Rohini Sec-8,40
+641,10,Rohini Sec-3,45
+642,1,Netaji Subhash Place,0
+642,2,Rohini Sec-1,5
+642,3,Rohini Sec-2,10
+642,4,Rohini Sec-3,15
+642,5,Rohini Sec-4,20
+642,6,Rohini Sec-5,25
+642,7,Rohini Sec-6,30
+642,8,Rohini Sec-7,35
+642,9,Rohini Sec-8,40
+642,10,Rohini Sec-7,45
+643,1,Netaji Subhash Place,0
+643,2,Rohini Sec-1,5
+643,3,Rohini Sec-2,10
+643,4,Rohini Sec-3,15
+643,5,Rohini Sec-4,20
+643,6,Rohini Sec-5,25
+643,7,Rohini Sec-6,30
+643,8,Rohini Sec-7,35
+643,9,Rohini Sec-8,40
+643,10,Rohini Sec-11,45
+644,1,Netaji Subhash Place,0
+644,2,Rohini Sec-1,5
+644,3,Rohini Sec-2,10
+644,4,Rohini Sec-3,15
+644,5,Rohini Sec-4,20
+644,6,Rohini Sec-5,25
+644,7,Rohini Sec-6,30
+644,8,Rohini Sec-7,35
+644,9,Rohini Sec-8,40
+644,10,Rohini Sec-14,45
+645,1,Netaji Subhash Place,0
+645,2,Rohini Sec-1,5
+645,3,Rohini Sec-2,10
+645,4,Rohini Sec-3,15
+645,5,Rohini Sec-4,20
+645,6,Rohini Sec-5,25
+645,7,Rohini Sec-6,30
+645,8,Rohini Sec-7,35
+645,9,Rohini Sec-8,40
+645,10,Rohini Sec-16,45
+646,1,Netaji Subhash Place,0
+646,2,Rohini Sec-1,5
+646,3,Rohini Sec-2,10
+646,4,Rohini Sec-3,15
+646,5,Rohini Sec-4,20
+646,6,Rohini Sec-5,25
+646,7,Rohini Sec-6,30
+646,8,Rohini Sec-7,35
+646,9,Rohini Sec-8,40
+646,10,Rohini Sec-18,45
+647,1,Netaji Subhash Place,0
+647,2,Rohini Sec-1,5
+647,3,Rohini Sec-2,10
+647,4,Rohini Sec-3,15
+647,5,Rohini Sec-4,20
+647,6,Rohini Sec-5,25
+647,7,Rohini Sec-6,30
+647,8,Rohini Sec-7,35
+647,9,Rohini Sec-8,40
+647,10,Pitampura,45
+648,1,Netaji Subhash Place,0
+648,2,Rohini Sec-1,5
+648,3,Rohini Sec-2,10
+648,4,Rohini Sec-3,15
+648,5,Rohini Sec-4,20
+648,6,Rohini Sec-5,25
+648,7,Rohini Sec-6,30
+648,8,Rohini Sec-7,35
+648,9,Rohini Sec-8,40
+648,10,Azadpur,45
+649,1,Netaji Subhash Place,0
+649,2,Rohini Sec-1,5
+649,3,Rohini Sec-2,10
+649,4,Rohini Sec-3,15
+649,5,Rohini Sec-4,20
+649,6,Rohini Sec-5,25
+649,7,Rohini Sec-6,30
+649,8,Rohini Sec-7,35
+649,9,Rohini Sec-8,40
+649,10,Kashmere Gate,45
+650,1,Azadpur,0
+650,2,Sabzi Mandi,5
+650,3,Pratap Nagar,10
+650,4,Shakur Basti,15
+650,5,Punjabi Bagh,20
+650,6,Rajouri Garden,25
+650,7,Kirti Nagar,30
+650,8,Moti Nagar,35
+650,9,Ramesh Nagar,40
+650,10,Sabzi Mandi,45
+651,1,Azadpur,0
+651,2,Sabzi Mandi,5
+651,3,Pratap Nagar,10
+651,4,Shakur Basti,15
+651,5,Punjabi Bagh,20
+651,6,Rajouri Garden,25
+651,7,Kirti Nagar,30
+651,8,Moti Nagar,35
+651,9,Ramesh Nagar,40
+651,10,Pratap Nagar,45
+652,1,Azadpur,0
+652,2,Sabzi Mandi,5
+652,3,Pratap Nagar,10
+652,4,Shakur Basti,15
+652,5,Punjabi Bagh,20
+652,6,Rajouri Garden,25
+652,7,Kirti Nagar,30
+652,8,Moti Nagar,35
+652,9,Ramesh Nagar,40
+652,10,Shakur Basti,45
+653,1,Azadpur,0
+653,2,Sabzi Mandi,5
+653,3,Pratap Nagar,10
+653,4,Shakur Basti,15
+653,5,Punjabi Bagh,20
+653,6,Rajouri Garden,25
+653,7,Kirti Nagar,30
+653,8,Moti Nagar,35
+653,9,Ramesh Nagar,40
+653,10,Punjabi Bagh,45
+654,1,Azadpur,0
+654,2,Sabzi Mandi,5
+654,3,Pratap Nagar,10
+654,4,Shakur Basti,15
+654,5,Punjabi Bagh,20
+654,6,Rajouri Garden,25
+654,7,Kirti Nagar,30
+654,8,Moti Nagar,35
+654,9,Ramesh Nagar,40
+654,10,Rajouri Garden,45
+655,1,Azadpur,0
+655,2,Sabzi Mandi,5
+655,3,Pratap Nagar,10
+655,4,Shakur Basti,15
+655,5,Punjabi Bagh,20
+655,6,Rajouri Garden,25
+655,7,Kirti Nagar,30
+655,8,Moti Nagar,35
+655,9,Ramesh Nagar,40
+655,10,Kirti Nagar,45
+656,1,Azadpur,0
+656,2,Sabzi Mandi,5
+656,3,Pratap Nagar,10
+656,4,Shakur Basti,15
+656,5,Punjabi Bagh,20
+656,6,Rajouri Garden,25
+656,7,Kirti Nagar,30
+656,8,Moti Nagar,35
+656,9,Ramesh Nagar,40
+656,10,Moti Nagar,45
+657,1,Azadpur,0
+657,2,Sabzi Mandi,5
+657,3,Pratap Nagar,10
+657,4,Shakur Basti,15
+657,5,Punjabi Bagh,20
+657,6,Rajouri Garden,25
+657,7,Kirti Nagar,30
+657,8,Moti Nagar,35
+657,9,Ramesh Nagar,40
+657,10,Ramesh Nagar,45
+658,1,Azadpur,0
+658,2,Sabzi Mandi,5
+658,3,Pratap Nagar,10
+658,4,Shakur Basti,15
+658,5,Punjabi Bagh,20
+658,6,Rajouri Garden,25
+658,7,Kirti Nagar,30
+658,8,Moti Nagar,35
+658,9,Ramesh Nagar,40
+658,10,Patel Nagar,45
+659,1,Azadpur,0
+659,2,Sabzi Mandi,5
+659,3,Pratap Nagar,10
+659,4,Shakur Basti,15
+659,5,Punjabi Bagh,20
+659,6,Rajouri Garden,25
+659,7,Kirti Nagar,30
+659,8,Moti Nagar,35
+659,9,Ramesh Nagar,40
+659,10,Rajendra Place,45
+660,1,Sabzi Mandi,0
+660,2,Pratap Nagar,5
+660,3,Shakur Basti,10
+660,4,Punjabi Bagh,15
+660,5,Rajouri Garden,20
+660,6,Kirti Nagar,25
+660,7,Moti Nagar,30
+660,8,Ramesh Nagar,35
+660,9,Patel Nagar,40
+660,10,Pratap Nagar,45
+661,1,Sabzi Mandi,0
+661,2,Pratap Nagar,5
+661,3,Shakur Basti,10
+661,4,Punjabi Bagh,15
+661,5,Rajouri Garden,20
+661,6,Kirti Nagar,25
+661,7,Moti Nagar,30
+661,8,Ramesh Nagar,35
+661,9,Patel Nagar,40
+661,10,Shakur Basti,45
+662,1,Sabzi Mandi,0
+662,2,Pratap Nagar,5
+662,3,Shakur Basti,10
+662,4,Punjabi Bagh,15
+662,5,Rajouri Garden,20
+662,6,Kirti Nagar,25
+662,7,Moti Nagar,30
+662,8,Ramesh Nagar,35
+662,9,Patel Nagar,40
+662,10,Punjabi Bagh,45
+663,1,Sabzi Mandi,0
+663,2,Pratap Nagar,5
+663,3,Shakur Basti,10
+663,4,Punjabi Bagh,15
+663,5,Rajouri Garden,20
+663,6,Kirti Nagar,25
+663,7,Moti Nagar,30
+663,8,Ramesh Nagar,35
+663,9,Patel Nagar,40
+663,10,Rajouri Garden,45
+664,1,Sabzi Mandi,0
+664,2,Pratap Nagar,5
+664,3,Shakur Basti,10
+664,4,Punjabi Bagh,15
+664,5,Rajouri Garden,20
+664,6,Kirti Nagar,25
+664,7,Moti Nagar,30
+664,8,Ramesh Nagar,35
+664,9,Patel Nagar,40
+664,10,Kirti Nagar,45
+665,1,Sabzi Mandi,0
+665,2,Pratap Nagar,5
+665,3,Shakur Basti,10
+665,4,Punjabi Bagh,15
+665,5,Rajouri Garden,20
+665,6,Kirti Nagar,25
+665,7,Moti Nagar,30
+665,8,Ramesh Nagar,35
+665,9,Patel Nagar,40
+665,10,Moti Nagar,45
+666,1,Sabzi Mandi,0
+666,2,Pratap Nagar,5
+666,3,Shakur Basti,10
+666,4,Punjabi Bagh,15
+666,5,Rajouri Garden,20
+666,6,Kirti Nagar,25
+666,7,Moti Nagar,30
+666,8,Ramesh Nagar,35
+666,9,Patel Nagar,40
+666,10,Ramesh Nagar,45
+667,1,Sabzi Mandi,0
+667,2,Pratap Nagar,5
+667,3,Shakur Basti,10
+667,4,Punjabi Bagh,15
+667,5,Rajouri Garden,20
+667,6,Kirti Nagar,25
+667,7,Moti Nagar,30
+667,8,Ramesh Nagar,35
+667,9,Patel Nagar,40
+667,10,Patel Nagar,45
+668,1,Sabzi Mandi,0
+668,2,Pratap Nagar,5
+668,3,Shakur Basti,10
+668,4,Punjabi Bagh,15
+668,5,Rajouri Garden,20
+668,6,Kirti Nagar,25
+668,7,Moti Nagar,30
+668,8,Ramesh Nagar,35
+668,9,Patel Nagar,40
+668,10,Rajendra Place,45
+669,1,Sabzi Mandi,0
+669,2,Pratap Nagar,5
+669,3,Shakur Basti,10
+669,4,Punjabi Bagh,15
+669,5,Rajouri Garden,20
+669,6,Kirti Nagar,25
+669,7,Moti Nagar,30
+669,8,Ramesh Nagar,35
+669,9,Patel Nagar,40
+669,10,Karol Bagh,45
+670,1,Pratap Nagar,0
+670,2,Shakur Basti,5
+670,3,Punjabi Bagh,10
+670,4,Rajouri Garden,15
+670,5,Kirti Nagar,20
+670,6,Moti Nagar,25
+670,7,Ramesh Nagar,30
+670,8,Patel Nagar,35
+670,9,Rajendra Place,40
+670,10,Shakur Basti,45
+671,1,Pratap Nagar,0
+671,2,Shakur Basti,5
+671,3,Punjabi Bagh,10
+671,4,Rajouri Garden,15
+671,5,Kirti Nagar,20
+671,6,Moti Nagar,25
+671,7,Ramesh Nagar,30
+671,8,Patel Nagar,35
+671,9,Rajendra Place,40
+671,10,Punjabi Bagh,45
+672,1,Pratap Nagar,0
+672,2,Shakur Basti,5
+672,3,Punjabi Bagh,10
+672,4,Rajouri Garden,15
+672,5,Kirti Nagar,20
+672,6,Moti Nagar,25
+672,7,Ramesh Nagar,30
+672,8,Patel Nagar,35
+672,9,Rajendra Place,40
+672,10,Rajouri Garden,45
+673,1,Pratap Nagar,0
+673,2,Shakur Basti,5
+673,3,Punjabi Bagh,10
+673,4,Rajouri Garden,15
+673,5,Kirti Nagar,20
+673,6,Moti Nagar,25
+673,7,Ramesh Nagar,30
+673,8,Patel Nagar,35
+673,9,Rajendra Place,40
+673,10,Kirti Nagar,45
+674,1,Pratap Nagar,0
+674,2,Shakur Basti,5
+674,3,Punjabi Bagh,10
+674,4,Rajouri Garden,15
+674,5,Kirti Nagar,20
+674,6,Moti Nagar,25
+674,7,Ramesh Nagar,30
+674,8,Patel Nagar,35
+674,9,Rajendra Place,40
+674,10,Moti Nagar,45
+675,1,Pratap Nagar,0
+675,2,Shakur Basti,5
+675,3,Punjabi Bagh,10
+675,4,Rajouri Garden,15
+675,5,Kirti Nagar,20
+675,6,Moti Nagar,25
+675,7,Ramesh Nagar,30
+675,8,Patel Nagar,35
+675,9,Rajendra Place,40
+675,10,Ramesh Nagar,45
+676,1,Pratap Nagar,0
+676,2,Shakur Basti,5
+676,3,Punjabi Bagh,10
+676,4,Rajouri Garden,15
+676,5,Kirti Nagar,20
+676,6,Moti Nagar,25
+676,7,Ramesh Nagar,30
+676,8,Patel Nagar,35
+676,9,Rajendra Place,40
+676,10,Patel Nagar,45
+677,1,Pratap Nagar,0
+677,2,Shakur Basti,5
+677,3,Punjabi Bagh,10
+677,4,Rajouri Garden,15
+677,5,Kirti Nagar,20
+677,6,Moti Nagar,25
+677,7,Ramesh Nagar,30
+677,8,Patel Nagar,35
+677,9,Rajendra Place,40
+677,10,Rajendra Place,45
+678,1,Pratap Nagar,0
+678,2,Shakur Basti,5
+678,3,Punjabi Bagh,10
+678,4,Rajouri Garden,15
+678,5,Kirti Nagar,20
+678,6,Moti Nagar,25
+678,7,Ramesh Nagar,30
+678,8,Patel Nagar,35
+678,9,Rajendra Place,40
+678,10,Karol Bagh,45
+679,1,Pratap Nagar,0
+679,2,Shakur Basti,5
+679,3,Punjabi Bagh,10
+679,4,Rajouri Garden,15
+679,5,Kirti Nagar,20
+679,6,Moti Nagar,25
+679,7,Ramesh Nagar,30
+679,8,Patel Nagar,35
+679,9,Rajendra Place,40
+679,10,Paharganj,45
+680,1,Shakur Basti,0
+680,2,Punjabi Bagh,5
+680,3,Rajouri Garden,10
+680,4,Kirti Nagar,15
+680,5,Moti Nagar,20
+680,6,Ramesh Nagar,25
+680,7,Patel Nagar,30
+680,8,Rajendra Place,35
+680,9,Karol Bagh,40
+680,10,Punjabi Bagh,45
+681,1,Shakur Basti,0
+681,2,Punjabi Bagh,5
+681,3,Rajouri Garden,10
+681,4,Kirti Nagar,15
+681,5,Moti Nagar,20
+681,6,Ramesh Nagar,25
+681,7,Patel Nagar,30
+681,8,Rajendra Place,35
+681,9,Karol Bagh,40
+681,10,Rajouri Garden,45
+682,1,Shakur Basti,0
+682,2,Punjabi Bagh,5
+682,3,Rajouri Garden,10
+682,4,Kirti Nagar,15
+682,5,Moti Nagar,20
+682,6,Ramesh Nagar,25
+682,7,Patel Nagar,30
+682,8,Rajendra Place,35
+682,9,Karol Bagh,40
+682,10,Kirti Nagar,45
+683,1,Shakur Basti,0
+683,2,Punjabi Bagh,5
+683,3,Rajouri Garden,10
+683,4,Kirti Nagar,15
+683,5,Moti Nagar,20
+683,6,Ramesh Nagar,25
+683,7,Patel Nagar,30
+683,8,Rajendra Place,35
+683,9,Karol Bagh,40
+683,10,Moti Nagar,45
+684,1,Shakur Basti,0
+684,2,Punjabi Bagh,5
+684,3,Rajouri Garden,10
+684,4,Kirti Nagar,15
+684,5,Moti Nagar,20
+684,6,Ramesh Nagar,25
+684,7,Patel Nagar,30
+684,8,Rajendra Place,35
+684,9,Karol Bagh,40
+684,10,Ramesh Nagar,45
+685,1,Shakur Basti,0
+685,2,Punjabi Bagh,5
+685,3,Rajouri Garden,10
+685,4,Kirti Nagar,15
+685,5,Moti Nagar,20
+685,6,Ramesh Nagar,25
+685,7,Patel Nagar,30
+685,8,Rajendra Place,35
+685,9,Karol Bagh,40
+685,10,Patel Nagar,45
+686,1,Shakur Basti,0
+686,2,Punjabi Bagh,5
+686,3,Rajouri Garden,10
+686,4,Kirti Nagar,15
+686,5,Moti Nagar,20
+686,6,Ramesh Nagar,25
+686,7,Patel Nagar,30
+686,8,Rajendra Place,35
+686,9,Karol Bagh,40
+686,10,Rajendra Place,45
+687,1,Shakur Basti,0
+687,2,Punjabi Bagh,5
+687,3,Rajouri Garden,10
+687,4,Kirti Nagar,15
+687,5,Moti Nagar,20
+687,6,Ramesh Nagar,25
+687,7,Patel Nagar,30
+687,8,Rajendra Place,35
+687,9,Karol Bagh,40
+687,10,Karol Bagh,45
+688,1,Shakur Basti,0
+688,2,Punjabi Bagh,5
+688,3,Rajouri Garden,10
+688,4,Kirti Nagar,15
+688,5,Moti Nagar,20
+688,6,Ramesh Nagar,25
+688,7,Patel Nagar,30
+688,8,Rajendra Place,35
+688,9,Karol Bagh,40
+688,10,Paharganj,45
+689,1,Shakur Basti,0
+689,2,Punjabi Bagh,5
+689,3,Rajouri Garden,10
+689,4,Kirti Nagar,15
+689,5,Moti Nagar,20
+689,6,Ramesh Nagar,25
+689,7,Patel Nagar,30
+689,8,Rajendra Place,35
+689,9,Karol Bagh,40
+689,10,New Delhi Railway Station,45
+690,1,Punjabi Bagh,0
+690,2,Rajouri Garden,5
+690,3,Kirti Nagar,10
+690,4,Moti Nagar,15
+690,5,Ramesh Nagar,20
+690,6,Patel Nagar,25
+690,7,Rajendra Place,30
+690,8,Karol Bagh,35
+690,9,Paharganj,40
+690,10,Rajouri Garden,45
+691,1,Punjabi Bagh,0
+691,2,Rajouri Garden,5
+691,3,Kirti Nagar,10
+691,4,Moti Nagar,15
+691,5,Ramesh Nagar,20
+691,6,Patel Nagar,25
+691,7,Rajendra Place,30
+691,8,Karol Bagh,35
+691,9,Paharganj,40
+691,10,Kirti Nagar,45
+692,1,Punjabi Bagh,0
+692,2,Rajouri Garden,5
+692,3,Kirti Nagar,10
+692,4,Moti Nagar,15
+692,5,Ramesh Nagar,20
+692,6,Patel Nagar,25
+692,7,Rajendra Place,30
+692,8,Karol Bagh,35
+692,9,Paharganj,40
+692,10,Moti Nagar,45
+693,1,Punjabi Bagh,0
+693,2,Rajouri Garden,5
+693,3,Kirti Nagar,10
+693,4,Moti Nagar,15
+693,5,Ramesh Nagar,20
+693,6,Patel Nagar,25
+693,7,Rajendra Place,30
+693,8,Karol Bagh,35
+693,9,Paharganj,40
+693,10,Ramesh Nagar,45
+694,1,Punjabi Bagh,0
+694,2,Rajouri Garden,5
+694,3,Kirti Nagar,10
+694,4,Moti Nagar,15
+694,5,Ramesh Nagar,20
+694,6,Patel Nagar,25
+694,7,Rajendra Place,30
+694,8,Karol Bagh,35
+694,9,Paharganj,40
+694,10,Patel Nagar,45
+695,1,Punjabi Bagh,0
+695,2,Rajouri Garden,5
+695,3,Kirti Nagar,10
+695,4,Moti Nagar,15
+695,5,Ramesh Nagar,20
+695,6,Patel Nagar,25
+695,7,Rajendra Place,30
+695,8,Karol Bagh,35
+695,9,Paharganj,40
+695,10,Rajendra Place,45
+696,1,Punjabi Bagh,0
+696,2,Rajouri Garden,5
+696,3,Kirti Nagar,10
+696,4,Moti Nagar,15
+696,5,Ramesh Nagar,20
+696,6,Patel Nagar,25
+696,7,Rajendra Place,30
+696,8,Karol Bagh,35
+696,9,Paharganj,40
+696,10,Karol Bagh,45
+697,1,Punjabi Bagh,0
+697,2,Rajouri Garden,5
+697,3,Kirti Nagar,10
+697,4,Moti Nagar,15
+697,5,Ramesh Nagar,20
+697,6,Patel Nagar,25
+697,7,Rajendra Place,30
+697,8,Karol Bagh,35
+697,9,Paharganj,40
+697,10,Paharganj,45
+698,1,Punjabi Bagh,0
+698,2,Rajouri Garden,5
+698,3,Kirti Nagar,10
+698,4,Moti Nagar,15
+698,5,Ramesh Nagar,20
+698,6,Patel Nagar,25
+698,7,Rajendra Place,30
+698,8,Karol Bagh,35
+698,9,Paharganj,40
+698,10,New Delhi Railway Station,45
+699,1,Punjabi Bagh,0
+699,2,Rajouri Garden,5
+699,3,Kirti Nagar,10
+699,4,Moti Nagar,15
+699,5,Ramesh Nagar,20
+699,6,Patel Nagar,25
+699,7,Rajendra Place,30
+699,8,Karol Bagh,35
+699,9,Paharganj,40
+699,10,Connaught Place,45
+700,1,Rajouri Garden,0
+700,2,Kirti Nagar,5
+700,3,Moti Nagar,10
+700,4,Ramesh Nagar,15
+700,5,Patel Nagar,20
+700,6,Rajendra Place,25
+700,7,Karol Bagh,30
+700,8,Paharganj,35
+700,9,New Delhi Railway Station,40
+700,10,Kirti Nagar,45
+701,1,Rajouri Garden,0
+701,2,Kirti Nagar,5
+701,3,Moti Nagar,10
+701,4,Ramesh Nagar,15
+701,5,Patel Nagar,20
+701,6,Rajendra Place,25
+701,7,Karol Bagh,30
+701,8,Paharganj,35
+701,9,New Delhi Railway Station,40
+701,10,Moti Nagar,45
+702,1,Rajouri Garden,0
+702,2,Kirti Nagar,5
+702,3,Moti Nagar,10
+702,4,Ramesh Nagar,15
+702,5,Patel Nagar,20
+702,6,Rajendra Place,25
+702,7,Karol Bagh,30
+702,8,Paharganj,35
+702,9,New Delhi Railway Station,40
+702,10,Ramesh Nagar,45
+703,1,Rajouri Garden,0
+703,2,Kirti Nagar,5
+703,3,Moti Nagar,10
+703,4,Ramesh Nagar,15
+703,5,Patel Nagar,20
+703,6,Rajendra Place,25
+703,7,Karol Bagh,30
+703,8,Paharganj,35
+703,9,New Delhi Railway Station,40
+703,10,Patel Nagar,45
+704,1,Rajouri Garden,0
+704,2,Kirti Nagar,5
+704,3,Moti Nagar,10
+704,4,Ramesh Nagar,15
+704,5,Patel Nagar,20
+704,6,Rajendra Place,25
+704,7,Karol Bagh,30
+704,8,Paharganj,35
+704,9,New Delhi Railway Station,40
+704,10,Rajendra Place,45
+705,1,Rajouri Garden,0
+705,2,Kirti Nagar,5
+705,3,Moti Nagar,10
+705,4,Ramesh Nagar,15
+705,5,Patel Nagar,20
+705,6,Rajendra Place,25
+705,7,Karol Bagh,30
+705,8,Paharganj,35
+705,9,New Delhi Railway Station,40
+705,10,Karol Bagh,45
+706,1,Rajouri Garden,0
+706,2,Kirti Nagar,5
+706,3,Moti Nagar,10
+706,4,Ramesh Nagar,15
+706,5,Patel Nagar,20
+706,6,Rajendra Place,25
+706,7,Karol Bagh,30
+706,8,Paharganj,35
+706,9,New Delhi Railway Station,40
+706,10,Paharganj,45
+707,1,Rajouri Garden,0
+707,2,Kirti Nagar,5
+707,3,Moti Nagar,10
+707,4,Ramesh Nagar,15
+707,5,Patel Nagar,20
+707,6,Rajendra Place,25
+707,7,Karol Bagh,30
+707,8,Paharganj,35
+707,9,New Delhi Railway Station,40
+707,10,New Delhi Railway Station,45
+708,1,Rajouri Garden,0
+708,2,Kirti Nagar,5
+708,3,Moti Nagar,10
+708,4,Ramesh Nagar,15
+708,5,Patel Nagar,20
+708,6,Rajendra Place,25
+708,7,Karol Bagh,30
+708,8,Paharganj,35
+708,9,New Delhi Railway Station,40
+708,10,Connaught Place,45
+709,1,Rajouri Garden,0
+709,2,Kirti Nagar,5
+709,3,Moti Nagar,10
+709,4,Ramesh Nagar,15
+709,5,Patel Nagar,20
+709,6,Rajendra Place,25
+709,7,Karol Bagh,30
+709,8,Paharganj,35
+709,9,New Delhi Railway Station,40
+709,10,India Gate,45
+710,1,Kirti Nagar,0
+710,2,Moti Nagar,5
+710,3,Ramesh Nagar,10
+710,4,Patel Nagar,15
+710,5,Rajendra Place,20
+710,6,Karol Bagh,25
+710,7,Paharganj,30
+710,8,New Delhi Railway Station,35
+710,9,Connaught Place,40
+710,10,Moti Nagar,45
+711,1,Kirti Nagar,0
+711,2,Moti Nagar,5
+711,3,Ramesh Nagar,10
+711,4,Patel Nagar,15
+711,5,Rajendra Place,20
+711,6,Karol Bagh,25
+711,7,Paharganj,30
+711,8,New Delhi Railway Station,35
+711,9,Connaught Place,40
+711,10,Ramesh Nagar,45
+712,1,Kirti Nagar,0
+712,2,Moti Nagar,5
+712,3,Ramesh Nagar,10
+712,4,Patel Nagar,15
+712,5,Rajendra Place,20
+712,6,Karol Bagh,25
+712,7,Paharganj,30
+712,8,New Delhi Railway Station,35
+712,9,Connaught Place,40
+712,10,Patel Nagar,45
+713,1,Kirti Nagar,0
+713,2,Moti Nagar,5
+713,3,Ramesh Nagar,10
+713,4,Patel Nagar,15
+713,5,Rajendra Place,20
+713,6,Karol Bagh,25
+713,7,Paharganj,30
+713,8,New Delhi Railway Station,35
+713,9,Connaught Place,40
+713,10,Rajendra Place,45
+714,1,Kirti Nagar,0
+714,2,Moti Nagar,5
+714,3,Ramesh Nagar,10
+714,4,Patel Nagar,15
+714,5,Rajendra Place,20
+714,6,Karol Bagh,25
+714,7,Paharganj,30
+714,8,New Delhi Railway Station,35
+714,9,Connaught Place,40
+714,10,Karol Bagh,45
+715,1,Kirti Nagar,0
+715,2,Moti Nagar,5
+715,3,Ramesh Nagar,10
+715,4,Patel Nagar,15
+715,5,Rajendra Place,20
+715,6,Karol Bagh,25
+715,7,Paharganj,30
+715,8,New Delhi Railway Station,35
+715,9,Connaught Place,40
+715,10,Paharganj,45
+716,1,Kirti Nagar,0
+716,2,Moti Nagar,5
+716,3,Ramesh Nagar,10
+716,4,Patel Nagar,15
+716,5,Rajendra Place,20
+716,6,Karol Bagh,25
+716,7,Paharganj,30
+716,8,New Delhi Railway Station,35
+716,9,Connaught Place,40
+716,10,New Delhi Railway Station,45
+717,1,Kirti Nagar,0
+717,2,Moti Nagar,5
+717,3,Ramesh Nagar,10
+717,4,Patel Nagar,15
+717,5,Rajendra Place,20
+717,6,Karol Bagh,25
+717,7,Paharganj,30
+717,8,New Delhi Railway Station,35
+717,9,Connaught Place,40
+717,10,Connaught Place,45
+718,1,Kirti Nagar,0
+718,2,Moti Nagar,5
+718,3,Ramesh Nagar,10
+718,4,Patel Nagar,15
+718,5,Rajendra Place,20
+718,6,Karol Bagh,25
+718,7,Paharganj,30
+718,8,New Delhi Railway Station,35
+718,9,Connaught Place,40
+718,10,India Gate,45
+719,1,Kirti Nagar,0
+719,2,Moti Nagar,5
+719,3,Ramesh Nagar,10
+719,4,Patel Nagar,15
+719,5,Rajendra Place,20
+719,6,Karol Bagh,25
+719,7,Paharganj,30
+719,8,New Delhi Railway Station,35
+719,9,Connaught Place,40
+719,10,South Extension,45
+720,1,Moti Nagar,0
+720,2,Ramesh Nagar,5
+720,3,Patel Nagar,10
+720,4,Rajendra Place,15
+720,5,Karol Bagh,20
+720,6,Paharganj,25
+720,7,New Delhi Railway Station,30
+720,8,Connaught Place,35
+720,9,India Gate,40
+720,10,Ramesh Nagar,45
+721,1,Moti Nagar,0
+721,2,Ramesh Nagar,5
+721,3,Patel Nagar,10
+721,4,Rajendra Place,15
+721,5,Karol Bagh,20
+721,6,Paharganj,25
+721,7,New Delhi Railway Station,30
+721,8,Connaught Place,35
+721,9,India Gate,40
+721,10,Patel Nagar,45
+722,1,Moti Nagar,0
+722,2,Ramesh Nagar,5
+722,3,Patel Nagar,10
+722,4,Rajendra Place,15
+722,5,Karol Bagh,20
+722,6,Paharganj,25
+722,7,New Delhi Railway Station,30
+722,8,Connaught Place,35
+722,9,India Gate,40
+722,10,Rajendra Place,45
+723,1,Moti Nagar,0
+723,2,Ramesh Nagar,5
+723,3,Patel Nagar,10
+723,4,Rajendra Place,15
+723,5,Karol Bagh,20
+723,6,Paharganj,25
+723,7,New Delhi Railway Station,30
+723,8,Connaught Place,35
+723,9,India Gate,40
+723,10,Karol Bagh,45
+724,1,Moti Nagar,0
+724,2,Ramesh Nagar,5
+724,3,Patel Nagar,10
+724,4,Rajendra Place,15
+724,5,Karol Bagh,20
+724,6,Paharganj,25
+724,7,New Delhi Railway Station,30
+724,8,Connaught Place,35
+724,9,India Gate,40
+724,10,Paharganj,45
+725,1,Moti Nagar,0
+725,2,Ramesh Nagar,5
+725,3,Patel Nagar,10
+725,4,Rajendra Place,15
+725,5,Karol Bagh,20
+725,6,Paharganj,25
+725,7,New Delhi Railway Station,30
+725,8,Connaught Place,35
+725,9,India Gate,40
+725,10,New Delhi Railway Station,45
+726,1,Moti Nagar,0
+726,2,Ramesh Nagar,5
+726,3,Patel Nagar,10
+726,4,Rajendra Place,15
+726,5,Karol Bagh,20
+726,6,Paharganj,25
+726,7,New Delhi Railway Station,30
+726,8,Connaught Place,35
+726,9,India Gate,40
+726,10,Connaught Place,45
+727,1,Moti Nagar,0
+727,2,Ramesh Nagar,5
+727,3,Patel Nagar,10
+727,4,Rajendra Place,15
+727,5,Karol Bagh,20
+727,6,Paharganj,25
+727,7,New Delhi Railway Station,30
+727,8,Connaught Place,35
+727,9,India Gate,40
+727,10,India Gate,45
+728,1,Moti Nagar,0
+728,2,Ramesh Nagar,5
+728,3,Patel Nagar,10
+728,4,Rajendra Place,15
+728,5,Karol Bagh,20
+728,6,Paharganj,25
+728,7,New Delhi Railway Station,30
+728,8,Connaught Place,35
+728,9,India Gate,40
+728,10,South Extension,45
+729,1,Moti Nagar,0
+729,2,Ramesh Nagar,5
+729,3,Patel Nagar,10
+729,4,Rajendra Place,15
+729,5,Karol Bagh,20
+729,6,Paharganj,25
+729,7,New Delhi Railway Station,30
+729,8,Connaught Place,35
+729,9,India Gate,40
+729,10,Lajpat Nagar,45
+730,1,Ramesh Nagar,0
+730,2,Patel Nagar,5
+730,3,Rajendra Place,10
+730,4,Karol Bagh,15
+730,5,Paharganj,20
+730,6,New Delhi Railway Station,25
+730,7,Connaught Place,30
+730,8,India Gate,35
+730,9,South Extension,40
+730,10,Patel Nagar,45
+731,1,Ramesh Nagar,0
+731,2,Patel Nagar,5
+731,3,Rajendra Place,10
+731,4,Karol Bagh,15
+731,5,Paharganj,20
+731,6,New Delhi Railway Station,25
+731,7,Connaught Place,30
+731,8,India Gate,35
+731,9,South Extension,40
+731,10,Rajendra Place,45
+732,1,Ramesh Nagar,0
+732,2,Patel Nagar,5
+732,3,Rajendra Place,10
+732,4,Karol Bagh,15
+732,5,Paharganj,20
+732,6,New Delhi Railway Station,25
+732,7,Connaught Place,30
+732,8,India Gate,35
+732,9,South Extension,40
+732,10,Karol Bagh,45
+733,1,Ramesh Nagar,0
+733,2,Patel Nagar,5
+733,3,Rajendra Place,10
+733,4,Karol Bagh,15
+733,5,Paharganj,20
+733,6,New Delhi Railway Station,25
+733,7,Connaught Place,30
+733,8,India Gate,35
+733,9,South Extension,40
+733,10,Paharganj,45
+734,1,Ramesh Nagar,0
+734,2,Patel Nagar,5
+734,3,Rajendra Place,10
+734,4,Karol Bagh,15
+734,5,Paharganj,20
+734,6,New Delhi Railway Station,25
+734,7,Connaught Place,30
+734,8,India Gate,35
+734,9,South Extension,40
+734,10,New Delhi Railway Station,45
+735,1,Ramesh Nagar,0
+735,2,Patel Nagar,5
+735,3,Rajendra Place,10
+735,4,Karol Bagh,15
+735,5,Paharganj,20
+735,6,New Delhi Railway Station,25
+735,7,Connaught Place,30
+735,8,India Gate,35
+735,9,South Extension,40
+735,10,Connaught Place,45
+736,1,Ramesh Nagar,0
+736,2,Patel Nagar,5
+736,3,Rajendra Place,10
+736,4,Karol Bagh,15
+736,5,Paharganj,20
+736,6,New Delhi Railway Station,25
+736,7,Connaught Place,30
+736,8,India Gate,35
+736,9,South Extension,40
+736,10,India Gate,45
+737,1,Ramesh Nagar,0
+737,2,Patel Nagar,5
+737,3,Rajendra Place,10
+737,4,Karol Bagh,15
+737,5,Paharganj,20
+737,6,New Delhi Railway Station,25
+737,7,Connaught Place,30
+737,8,India Gate,35
+737,9,South Extension,40
+737,10,South Extension,45
+738,1,Ramesh Nagar,0
+738,2,Patel Nagar,5
+738,3,Rajendra Place,10
+738,4,Karol Bagh,15
+738,5,Paharganj,20
+738,6,New Delhi Railway Station,25
+738,7,Connaught Place,30
+738,8,India Gate,35
+738,9,South Extension,40
+738,10,Lajpat Nagar,45
+739,1,Ramesh Nagar,0
+739,2,Patel Nagar,5
+739,3,Rajendra Place,10
+739,4,Karol Bagh,15
+739,5,Paharganj,20
+739,6,New Delhi Railway Station,25
+739,7,Connaught Place,30
+739,8,India Gate,35
+739,9,South Extension,40
+739,10,Nehru Place,45
+740,1,Patel Nagar,0
+740,2,Rajendra Place,5
+740,3,Karol Bagh,10
+740,4,Paharganj,15
+740,5,New Delhi Railway Station,20
+740,6,Connaught Place,25
+740,7,India Gate,30
+740,8,South Extension,35
+740,9,Lajpat Nagar,40
+740,10,Rajendra Place,45
+741,1,Patel Nagar,0
+741,2,Rajendra Place,5
+741,3,Karol Bagh,10
+741,4,Paharganj,15
+741,5,New Delhi Railway Station,20
+741,6,Connaught Place,25
+741,7,India Gate,30
+741,8,South Extension,35
+741,9,Lajpat Nagar,40
+741,10,Karol Bagh,45
+742,1,Patel Nagar,0
+742,2,Rajendra Place,5
+742,3,Karol Bagh,10
+742,4,Paharganj,15
+742,5,New Delhi Railway Station,20
+742,6,Connaught Place,25
+742,7,India Gate,30
+742,8,South Extension,35
+742,9,Lajpat Nagar,40
+742,10,Paharganj,45
+743,1,Patel Nagar,0
+743,2,Rajendra Place,5
+743,3,Karol Bagh,10
+743,4,Paharganj,15
+743,5,New Delhi Railway Station,20
+743,6,Connaught Place,25
+743,7,India Gate,30
+743,8,South Extension,35
+743,9,Lajpat Nagar,40
+743,10,New Delhi Railway Station,45
+744,1,Patel Nagar,0
+744,2,Rajendra Place,5
+744,3,Karol Bagh,10
+744,4,Paharganj,15
+744,5,New Delhi Railway Station,20
+744,6,Connaught Place,25
+744,7,India Gate,30
+744,8,South Extension,35
+744,9,Lajpat Nagar,40
+744,10,Connaught Place,45
+745,1,Patel Nagar,0
+745,2,Rajendra Place,5
+745,3,Karol Bagh,10
+745,4,Paharganj,15
+745,5,New Delhi Railway Station,20
+745,6,Connaught Place,25
+745,7,India Gate,30
+745,8,South Extension,35
+745,9,Lajpat Nagar,40
+745,10,India Gate,45
+746,1,Patel Nagar,0
+746,2,Rajendra Place,5
+746,3,Karol Bagh,10
+746,4,Paharganj,15
+746,5,New Delhi Railway Station,20
+746,6,Connaught Place,25
+746,7,India Gate,30
+746,8,South Extension,35
+746,9,Lajpat Nagar,40
+746,10,South Extension,45
+747,1,Patel Nagar,0
+747,2,Rajendra Place,5
+747,3,Karol Bagh,10
+747,4,Paharganj,15
+747,5,New Delhi Railway Station,20
+747,6,Connaught Place,25
+747,7,India Gate,30
+747,8,South Extension,35
+747,9,Lajpat Nagar,40
+747,10,Lajpat Nagar,45
+748,1,Patel Nagar,0
+748,2,Rajendra Place,5
+748,3,Karol Bagh,10
+748,4,Paharganj,15
+748,5,New Delhi Railway Station,20
+748,6,Connaught Place,25
+748,7,India Gate,30
+748,8,South Extension,35
+748,9,Lajpat Nagar,40
+748,10,Nehru Place,45
+749,1,Patel Nagar,0
+749,2,Rajendra Place,5
+749,3,Karol Bagh,10
+749,4,Paharganj,15
+749,5,New Delhi Railway Station,20
+749,6,Connaught Place,25
+749,7,India Gate,30
+749,8,South Extension,35
+749,9,Lajpat Nagar,40
+749,10,Kalkaji,45
+750,1,Rajendra Place,0
+750,2,Karol Bagh,5
+750,3,Paharganj,10
+750,4,New Delhi Railway Station,15
+750,5,Connaught Place,20
+750,6,India Gate,25
+750,7,South Extension,30
+750,8,Lajpat Nagar,35
+750,9,Nehru Place,40
+750,10,Karol Bagh,45
+751,1,Rajendra Place,0
+751,2,Karol Bagh,5
+751,3,Paharganj,10
+751,4,New Delhi Railway Station,15
+751,5,Connaught Place,20
+751,6,India Gate,25
+751,7,South Extension,30
+751,8,Lajpat Nagar,35
+751,9,Nehru Place,40
+751,10,Paharganj,45
+752,1,Rajendra Place,0
+752,2,Karol Bagh,5
+752,3,Paharganj,10
+752,4,New Delhi Railway Station,15
+752,5,Connaught Place,20
+752,6,India Gate,25
+752,7,South Extension,30
+752,8,Lajpat Nagar,35
+752,9,Nehru Place,40
+752,10,New Delhi Railway Station,45
+753,1,Rajendra Place,0
+753,2,Karol Bagh,5
+753,3,Paharganj,10
+753,4,New Delhi Railway Station,15
+753,5,Connaught Place,20
+753,6,India Gate,25
+753,7,South Extension,30
+753,8,Lajpat Nagar,35
+753,9,Nehru Place,40
+753,10,Connaught Place,45
+754,1,Rajendra Place,0
+754,2,Karol Bagh,5
+754,3,Paharganj,10
+754,4,New Delhi Railway Station,15
+754,5,Connaught Place,20
+754,6,India Gate,25
+754,7,South Extension,30
+754,8,Lajpat Nagar,35
+754,9,Nehru Place,40
+754,10,India Gate,45
+755,1,Rajendra Place,0
+755,2,Karol Bagh,5
+755,3,Paharganj,10
+755,4,New Delhi Railway Station,15
+755,5,Connaught Place,20
+755,6,India Gate,25
+755,7,South Extension,30
+755,8,Lajpat Nagar,35
+755,9,Nehru Place,40
+755,10,South Extension,45
+756,1,Rajendra Place,0
+756,2,Karol Bagh,5
+756,3,Paharganj,10
+756,4,New Delhi Railway Station,15
+756,5,Connaught Place,20
+756,6,India Gate,25
+756,7,South Extension,30
+756,8,Lajpat Nagar,35
+756,9,Nehru Place,40
+756,10,Lajpat Nagar,45
+757,1,Rajendra Place,0
+757,2,Karol Bagh,5
+757,3,Paharganj,10
+757,4,New Delhi Railway Station,15
+757,5,Connaught Place,20
+757,6,India Gate,25
+757,7,South Extension,30
+757,8,Lajpat Nagar,35
+757,9,Nehru Place,40
+757,10,Nehru Place,45
+758,1,Rajendra Place,0
+758,2,Karol Bagh,5
+758,3,Paharganj,10
+758,4,New Delhi Railway Station,15
+758,5,Connaught Place,20
+758,6,India Gate,25
+758,7,South Extension,30
+758,8,Lajpat Nagar,35
+758,9,Nehru Place,40
+758,10,Kalkaji,45
+759,1,Rajendra Place,0
+759,2,Karol Bagh,5
+759,3,Paharganj,10
+759,4,New Delhi Railway Station,15
+759,5,Connaught Place,20
+759,6,India Gate,25
+759,7,South Extension,30
+759,8,Lajpat Nagar,35
+759,9,Nehru Place,40
+759,10,Okhla,45
+760,1,Karol Bagh,0
+760,2,Paharganj,5
+760,3,New Delhi Railway Station,10
+760,4,Connaught Place,15
+760,5,India Gate,20
+760,6,South Extension,25
+760,7,Lajpat Nagar,30
+760,8,Nehru Place,35
+760,9,Kalkaji,40
+760,10,Paharganj,45
+761,1,Karol Bagh,0
+761,2,Paharganj,5
+761,3,New Delhi Railway Station,10
+761,4,Connaught Place,15
+761,5,India Gate,20
+761,6,South Extension,25
+761,7,Lajpat Nagar,30
+761,8,Nehru Place,35
+761,9,Kalkaji,40
+761,10,New Delhi Railway Station,45
+762,1,Karol Bagh,0
+762,2,Paharganj,5
+762,3,New Delhi Railway Station,10
+762,4,Connaught Place,15
+762,5,India Gate,20
+762,6,South Extension,25
+762,7,Lajpat Nagar,30
+762,8,Nehru Place,35
+762,9,Kalkaji,40
+762,10,Connaught Place,45
+763,1,Karol Bagh,0
+763,2,Paharganj,5
+763,3,New Delhi Railway Station,10
+763,4,Connaught Place,15
+763,5,India Gate,20
+763,6,South Extension,25
+763,7,Lajpat Nagar,30
+763,8,Nehru Place,35
+763,9,Kalkaji,40
+763,10,India Gate,45
+764,1,Karol Bagh,0
+764,2,Paharganj,5
+764,3,New Delhi Railway Station,10
+764,4,Connaught Place,15
+764,5,India Gate,20
+764,6,South Extension,25
+764,7,Lajpat Nagar,30
+764,8,Nehru Place,35
+764,9,Kalkaji,40
+764,10,South Extension,45
+765,1,Karol Bagh,0
+765,2,Paharganj,5
+765,3,New Delhi Railway Station,10
+765,4,Connaught Place,15
+765,5,India Gate,20
+765,6,South Extension,25
+765,7,Lajpat Nagar,30
+765,8,Nehru Place,35
+765,9,Kalkaji,40
+765,10,Lajpat Nagar,45
+766,1,Karol Bagh,0
+766,2,Paharganj,5
+766,3,New Delhi Railway Station,10
+766,4,Connaught Place,15
+766,5,India Gate,20
+766,6,South Extension,25
+766,7,Lajpat Nagar,30
+766,8,Nehru Place,35
+766,9,Kalkaji,40
+766,10,Nehru Place,45
+767,1,Karol Bagh,0
+767,2,Paharganj,5
+767,3,New Delhi Railway Station,10
+767,4,Connaught Place,15
+767,5,India Gate,20
+767,6,South Extension,25
+767,7,Lajpat Nagar,30
+767,8,Nehru Place,35
+767,9,Kalkaji,40
+767,10,Kalkaji,45
+768,1,Karol Bagh,0
+768,2,Paharganj,5
+768,3,New Delhi Railway Station,10
+768,4,Connaught Place,15
+768,5,India Gate,20
+768,6,South Extension,25
+768,7,Lajpat Nagar,30
+768,8,Nehru Place,35
+768,9,Kalkaji,40
+768,10,Okhla,45
+769,1,Karol Bagh,0
+769,2,Paharganj,5
+769,3,New Delhi Railway Station,10
+769,4,Connaught Place,15
+769,5,India Gate,20
+769,6,South Extension,25
+769,7,Lajpat Nagar,30
+769,8,Nehru Place,35
+769,9,Kalkaji,40
+769,10,Jamia Nagar,45
+770,1,Paharganj,0
+770,2,New Delhi Railway Station,5
+770,3,Connaught Place,10
+770,4,India Gate,15
+770,5,South Extension,20
+770,6,Lajpat Nagar,25
+770,7,Nehru Place,30
+770,8,Kalkaji,35
+770,9,Okhla,40
+770,10,New Delhi Railway Station,45
+771,1,Paharganj,0
+771,2,New Delhi Railway Station,5
+771,3,Connaught Place,10
+771,4,India Gate,15
+771,5,South Extension,20
+771,6,Lajpat Nagar,25
+771,7,Nehru Place,30
+771,8,Kalkaji,35
+771,9,Okhla,40
+771,10,Connaught Place,45
+772,1,Paharganj,0
+772,2,New Delhi Railway Station,5
+772,3,Connaught Place,10
+772,4,India Gate,15
+772,5,South Extension,20
+772,6,Lajpat Nagar,25
+772,7,Nehru Place,30
+772,8,Kalkaji,35
+772,9,Okhla,40
+772,10,India Gate,45
+773,1,Paharganj,0
+773,2,New Delhi Railway Station,5
+773,3,Connaught Place,10
+773,4,India Gate,15
+773,5,South Extension,20
+773,6,Lajpat Nagar,25
+773,7,Nehru Place,30
+773,8,Kalkaji,35
+773,9,Okhla,40
+773,10,South Extension,45
+774,1,Paharganj,0
+774,2,New Delhi Railway Station,5
+774,3,Connaught Place,10
+774,4,India Gate,15
+774,5,South Extension,20
+774,6,Lajpat Nagar,25
+774,7,Nehru Place,30
+774,8,Kalkaji,35
+774,9,Okhla,40
+774,10,Lajpat Nagar,45
+775,1,Paharganj,0
+775,2,New Delhi Railway Station,5
+775,3,Connaught Place,10
+775,4,India Gate,15
+775,5,South Extension,20
+775,6,Lajpat Nagar,25
+775,7,Nehru Place,30
+775,8,Kalkaji,35
+775,9,Okhla,40
+775,10,Nehru Place,45
+776,1,Paharganj,0
+776,2,New Delhi Railway Station,5
+776,3,Connaught Place,10
+776,4,India Gate,15
+776,5,South Extension,20
+776,6,Lajpat Nagar,25
+776,7,Nehru Place,30
+776,8,Kalkaji,35
+776,9,Okhla,40
+776,10,Kalkaji,45
+777,1,Paharganj,0
+777,2,New Delhi Railway Station,5
+777,3,Connaught Place,10
+777,4,India Gate,15
+777,5,South Extension,20
+777,6,Lajpat Nagar,25
+777,7,Nehru Place,30
+777,8,Kalkaji,35
+777,9,Okhla,40
+777,10,Okhla,45
+778,1,Paharganj,0
+778,2,New Delhi Railway Station,5
+778,3,Connaught Place,10
+778,4,India Gate,15
+778,5,South Extension,20
+778,6,Lajpat Nagar,25
+778,7,Nehru Place,30
+778,8,Kalkaji,35
+778,9,Okhla,40
+778,10,Jamia Nagar,45
+779,1,Paharganj,0
+779,2,New Delhi Railway Station,5
+779,3,Connaught Place,10
+779,4,India Gate,15
+779,5,South Extension,20
+779,6,Lajpat Nagar,25
+779,7,Nehru Place,30
+779,8,Kalkaji,35
+779,9,Okhla,40
+779,10,Badarpur,45
+780,1,New Delhi Railway Station,0
+780,2,Connaught Place,5
+780,3,India Gate,10
+780,4,South Extension,15
+780,5,Lajpat Nagar,20
+780,6,Nehru Place,25
+780,7,Kalkaji,30
+780,8,Okhla,35
+780,9,Jamia Nagar,40
+780,10,Connaught Place,45
+781,1,New Delhi Railway Station,0
+781,2,Connaught Place,5
+781,3,India Gate,10
+781,4,South Extension,15
+781,5,Lajpat Nagar,20
+781,6,Nehru Place,25
+781,7,Kalkaji,30
+781,8,Okhla,35
+781,9,Jamia Nagar,40
+781,10,India Gate,45
+782,1,New Delhi Railway Station,0
+782,2,Connaught Place,5
+782,3,India Gate,10
+782,4,South Extension,15
+782,5,Lajpat Nagar,20
+782,6,Nehru Place,25
+782,7,Kalkaji,30
+782,8,Okhla,35
+782,9,Jamia Nagar,40
+782,10,South Extension,45
+783,1,New Delhi Railway Station,0
+783,2,Connaught Place,5
+783,3,India Gate,10
+783,4,South Extension,15
+783,5,Lajpat Nagar,20
+783,6,Nehru Place,25
+783,7,Kalkaji,30
+783,8,Okhla,35
+783,9,Jamia Nagar,40
+783,10,Lajpat Nagar,45
+784,1,New Delhi Railway Station,0
+784,2,Connaught Place,5
+784,3,India Gate,10
+784,4,South Extension,15
+784,5,Lajpat Nagar,20
+784,6,Nehru Place,25
+784,7,Kalkaji,30
+784,8,Okhla,35
+784,9,Jamia Nagar,40
+784,10,Nehru Place,45
+785,1,New Delhi Railway Station,0
+785,2,Connaught Place,5
+785,3,India Gate,10
+785,4,South Extension,15
+785,5,Lajpat Nagar,20
+785,6,Nehru Place,25
+785,7,Kalkaji,30
+785,8,Okhla,35
+785,9,Jamia Nagar,40
+785,10,Kalkaji,45
+786,1,New Delhi Railway Station,0
+786,2,Connaught Place,5
+786,3,India Gate,10
+786,4,South Extension,15
+786,5,Lajpat Nagar,20
+786,6,Nehru Place,25
+786,7,Kalkaji,30
+786,8,Okhla,35
+786,9,Jamia Nagar,40
+786,10,Okhla,45
+787,1,New Delhi Railway Station,0
+787,2,Connaught Place,5
+787,3,India Gate,10
+787,4,South Extension,15
+787,5,Lajpat Nagar,20
+787,6,Nehru Place,25
+787,7,Kalkaji,30
+787,8,Okhla,35
+787,9,Jamia Nagar,40
+787,10,Jamia Nagar,45
+788,1,New Delhi Railway Station,0
+788,2,Connaught Place,5
+788,3,India Gate,10
+788,4,South Extension,15
+788,5,Lajpat Nagar,20
+788,6,Nehru Place,25
+788,7,Kalkaji,30
+788,8,Okhla,35
+788,9,Jamia Nagar,40
+788,10,Badarpur,45
+789,1,New Delhi Railway Station,0
+789,2,Connaught Place,5
+789,3,India Gate,10
+789,4,South Extension,15
+789,5,Lajpat Nagar,20
+789,6,Nehru Place,25
+789,7,Kalkaji,30
+789,8,Okhla,35
+789,9,Jamia Nagar,40
+789,10,Faridabad,45
+790,1,Connaught Place,0
+790,2,India Gate,5
+790,3,South Extension,10
+790,4,Lajpat Nagar,15
+790,5,Nehru Place,20
+790,6,Kalkaji,25
+790,7,Okhla,30
+790,8,Jamia Nagar,35
+790,9,Badarpur,40
+790,10,India Gate,45
+791,1,Connaught Place,0
+791,2,India Gate,5
+791,3,South Extension,10
+791,4,Lajpat Nagar,15
+791,5,Nehru Place,20
+791,6,Kalkaji,25
+791,7,Okhla,30
+791,8,Jamia Nagar,35
+791,9,Badarpur,40
+791,10,South Extension,45
+792,1,Connaught Place,0
+792,2,India Gate,5
+792,3,South Extension,10
+792,4,Lajpat Nagar,15
+792,5,Nehru Place,20
+792,6,Kalkaji,25
+792,7,Okhla,30
+792,8,Jamia Nagar,35
+792,9,Badarpur,40
+792,10,Lajpat Nagar,45
+793,1,Connaught Place,0
+793,2,India Gate,5
+793,3,South Extension,10
+793,4,Lajpat Nagar,15
+793,5,Nehru Place,20
+793,6,Kalkaji,25
+793,7,Okhla,30
+793,8,Jamia Nagar,35
+793,9,Badarpur,40
+793,10,Nehru Place,45
+794,1,Connaught Place,0
+794,2,India Gate,5
+794,3,South Extension,10
+794,4,Lajpat Nagar,15
+794,5,Nehru Place,20
+794,6,Kalkaji,25
+794,7,Okhla,30
+794,8,Jamia Nagar,35
+794,9,Badarpur,40
+794,10,Kalkaji,45
+795,1,Connaught Place,0
+795,2,India Gate,5
+795,3,South Extension,10
+795,4,Lajpat Nagar,15
+795,5,Nehru Place,20
+795,6,Kalkaji,25
+795,7,Okhla,30
+795,8,Jamia Nagar,35
+795,9,Badarpur,40
+795,10,Okhla,45
+796,1,Connaught Place,0
+796,2,India Gate,5
+796,3,South Extension,10
+796,4,Lajpat Nagar,15
+796,5,Nehru Place,20
+796,6,Kalkaji,25
+796,7,Okhla,30
+796,8,Jamia Nagar,35
+796,9,Badarpur,40
+796,10,Jamia Nagar,45
+797,1,Connaught Place,0
+797,2,India Gate,5
+797,3,South Extension,10
+797,4,Lajpat Nagar,15
+797,5,Nehru Place,20
+797,6,Kalkaji,25
+797,7,Okhla,30
+797,8,Jamia Nagar,35
+797,9,Badarpur,40
+797,10,Badarpur,45
+798,1,Connaught Place,0
+798,2,India Gate,5
+798,3,South Extension,10
+798,4,Lajpat Nagar,15
+798,5,Nehru Place,20
+798,6,Kalkaji,25
+798,7,Okhla,30
+798,8,Jamia Nagar,35
+798,9,Badarpur,40
+798,10,Faridabad,45
+799,1,Connaught Place,0
+799,2,India Gate,5
+799,3,South Extension,10
+799,4,Lajpat Nagar,15
+799,5,Nehru Place,20
+799,6,Kalkaji,25
+799,7,Okhla,30
+799,8,Jamia Nagar,35
+799,9,Badarpur,40
+799,10,Noida,45
+800,1,India Gate,0
+800,2,South Extension,5
+800,3,Lajpat Nagar,10
+800,4,Nehru Place,15
+800,5,Kalkaji,20
+800,6,Okhla,25
+800,7,Jamia Nagar,30
+800,8,Badarpur,35
+800,9,Faridabad,40
+800,10,South Extension,45
+bus_number,stop_order,stop_name,fare
+1,1,Kashmere Gate,0
+1,2,Red Fort,5
+1,3,Chandni Chowk,10
+1,4,Delhi Gate,15
+1,5,Daryaganj,20
+1,6,ITO,25
+1,7,Mandi House,30
+1,8,Janpath,35
+1,9,RK Ashram Marg,40
+1,10,Connaught Place,45
+2,1,ISBT Kashmere Gate,0
+2,2,Civil Lines,5
+2,3,Delhi University,10
+2,4,Vishwavidyalaya,15
+2,5,Hudson Lane,20
+2,6,GTB Nagar,25
+2,7,Maurice Nagar,30
+2,8,Kamla Nagar,35
+2,9,Rana Pratap Bagh,40
+2,10,Karol Bagh,45
+3,1,Red Fort,0
+3,2,Kashmere Gate,5
+3,3,ISBT,10
+3,4,Majnu Ka Tilla,15
+3,5,Vijay Nagar,20
+3,6,Kingsway Camp,25
+3,7,GTB Nagar,30
+3,8,Model Town,35
+3,9,Pitampura,40
+3,10,Nehru Place,45
+4,1,Anand Vihar ISBT,0
+4,2,Preet Vihar,5
+4,3,Nirman Vihar,10
+4,4,Laxmi Nagar,15
+4,5,Rajghat,20
+4,6,Red Fort,25
+4,7,Chandni Chowk,30
+4,8,Karol Bagh,35
+4,9,Rajendra Place,40
+4,10,Rajouri Garden,45
+5,1,Dwarka Sec-21,0
+5,2,Dwarka Sec-14,5
+5,3,Dwarka Sec-13,10
+5,4,Dwarka Sec-10,15
+5,5,Dwarka Sec-8,20
+5,6,IGI Airport,25
+5,7,Mahipalpur,30
+5,8,Vasant Kunj,35
+5,9,Munirka,40
+5,10,Noida Sec-62,45
+6,1,Rohini Sec-16,0
+6,2,Rohini Sec-14,5
+6,3,Rohini Sec-11,10
+6,4,Rohini Sec-7,15
+6,5,Rohini Sec-3,20
+6,6,Pitampura,25
+6,7,Netaji Subhash Place,30
+6,8,Shalimar Bagh,35
+6,9,Keshav Puram,40
+6,10,Lajpat Nagar,45
+7,1,Punjabi Bagh,0
+7,2,Rajouri Garden,5
+7,3,Naraina,10
+7,4,Dhaula Kuan,15
+7,5,Motibagh,20
+7,6,RK Puram,25
+7,7,Sarojini Nagar,30
+7,8,South Extension,35
+7,9,Defence Colony,40
+7,10,Saket,45
+8,1,Mayur Vihar Phase-1,0
+8,2,Mayur Vihar Phase-2,5
+8,3,Mayur Vihar Phase-3,10
+8,4,Anand Vihar ISBT,15
+8,5,Preet Vihar,20
+8,6,Nirman Vihar,25
+8,7,Laxmi Nagar,30
+8,8,Rajghat,35
+8,9,India Gate,40
+8,10,Delhi Cantt,45
+9,1,Model Town,0
+9,2,Hudson Lane,5
+9,3,GTB Nagar,10
+9,4,Vishwavidyalaya,15
+9,5,Maurice Nagar,20
+9,6,Kamla Nagar,25
+9,7,Chandni Chowk,30
+9,8,Darya Ganj,35
+9,9,ITO,40
+9,10,Okhla,45
+10,1,New Delhi Railway Station,0
+10,2,Paharganj,5
+10,3,Karol Bagh,10
+10,4,Rajendra Place,15
+10,5,Patel Nagar,20
+10,6,Moti Nagar,25
+10,7,Ramesh Nagar,30
+10,8,Tilak Nagar,35
+10,9,Subhash Nagar,40
+10,10,Shahdara,45
