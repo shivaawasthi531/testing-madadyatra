@@ -6,13 +6,18 @@ app = Flask(__name__)
 
 # ================= PATH SETUP =================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# cpp folder (Linux compatible)
 CPP_DIR = os.path.abspath(os.path.join(BASE_DIR, "../cpp"))
 
-BUS_ENGINE_PATH = os.path.join(CPP_DIR, "bus_engine.exe")
-METRO_ENGINE_PATH = os.path.join(CPP_DIR, "metro_engine.exe")
+# Linux binaries (NO .exe on Render)
+BUS_ENGINE_PATH = os.path.join(CPP_DIR, "bus_engine")
+METRO_ENGINE_PATH = os.path.join(CPP_DIR, "metro_engine")
 
+# frontend folder
 FRONTEND_DIR = os.path.abspath(os.path.join(BASE_DIR, "../../frontend"))
 
+# CSV files
 STATION_CSV = os.path.join(CPP_DIR, "metro_stations.csv")
 LINE_CSV    = os.path.join(CPP_DIR, "metro_lines.csv")
 
@@ -26,7 +31,7 @@ def home():
 def static_files(path):
     return send_from_directory(FRONTEND_DIR, path)
 
-# ================= BUS ROUTE API (UNCHANGED) =================
+# ================= BUS ROUTE API =================
 @app.route("/bus-route", methods=["POST"])
 def bus_route():
     data = request.json
@@ -54,7 +59,7 @@ def bus_route():
     except Exception as e:
         return jsonify({"error": str(e)})
 
-# ================= METRO ROUTE API (UPDATED) =================
+# ================= METRO ROUTE API =================
 @app.route("/metro-route", methods=["POST"])
 def metro_route():
     data = request.json
@@ -94,6 +99,8 @@ def metro_route():
     except Exception as e:
         return jsonify({"error": str(e)})
 
-# ================= RUN =================
+# ================= RUN (RENDER COMPATIBLE) =================
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
+
